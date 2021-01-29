@@ -1,6 +1,5 @@
 ---
 title: About
-layout: template
 filename: About.md
 --- 
 I am a Ph. D student studying in Texas A&M University, College of Geo-science, Department of Atmospheric Science. \
