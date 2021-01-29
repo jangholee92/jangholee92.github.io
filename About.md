@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+theme: jekyll-theme-slate
 permalink: /about/
 ---
 
