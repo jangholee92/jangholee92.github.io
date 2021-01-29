@@ -1,3 +1,9 @@
+---
+title: PAGE TITLE HERE
+layout: template
+filename: index.md
+--- 
+
 ## Jangho Lee
 
 **Ph.D Student studying climate change, extreme events, machine-learning, and statistics.**
