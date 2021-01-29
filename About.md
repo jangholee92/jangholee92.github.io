@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 I am a Ph. D student studying in Texas A&M University, College of Geo-science, Department of Atmospheric Science. \
 I am currently working as a Graduate Research Assistant with Dr. Andrew Dessler.\
 
