@@ -1,6 +1,5 @@
 ---
 title: Front Page
-layout: template
 filename: index.md
 --- 
 
