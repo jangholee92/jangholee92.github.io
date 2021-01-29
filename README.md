@@ -1,12 +1,11 @@
 ## Jangho Lee
 
 #### **Ph.D Student studying climate change, extreme events, machine-learning, and statistics.**
-
-
+ \
 ### Education
 2018-Present  |  Texas A&M University (Ph. D)\
 2011-2018     |  Seoul National University (B.S)
-
+ \
 ### Selected Publications
 **Lee, J**., Shi, Y.R., Cai, C., Ciren, P. Wang, J., Gangopadhyay, A., Zhang, Z. (2021): Machine Learning Based Algorithms for Global Dust Aerosol Detection From Satellite Images: Inter-Comparisons and Evaluation. Remote Sensing. 2021, 13, 456.\
 \
