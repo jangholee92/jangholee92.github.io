@@ -5,7 +5,7 @@ locale: "en-US"
 site_theme: "default"
 title: "Jangho Lee"
 title_separator: "-"
-name: &name "Jangho Lee"
+name: &name "Jangho Lee, Ph.D"
 description: &description "Personal description"
 url: "https://jangholee92.github.io"  # base hostname & protocol
 baseurl: ""  # no subpath since this is a user site
