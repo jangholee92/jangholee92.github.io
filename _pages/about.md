@@ -21,12 +21,47 @@ multiple socioeconomic sectors.
 
 ---
 
-<figure style="text-align: center;">
-  <!-- The src uses a Liquid filter to handle baseurl if it’s not empty -->
-  <img src="{{ '/images/frontPage.png' | relative_url }}" 
-       alt="Illustration created with DALL-E"
-       style="max-width: 780; width: 100%; height: auto;">
-  <figcaption style="font-style: italic;">
-    Image created with DALL-E
-  </figcaption>
-</figure>
+<div style="margin-top: 2rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+
+  <!-- 1) GeoHealth Top Cited Award -->
+  <div style="flex: 1 1 250px; max-width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
+    <img src="{{ '/images/thumbnail3.png' | relative_url }}" alt="GeoHealth Award Thumbnail" style="width: 100%; height: auto;">
+    <div style="padding: 1rem;">
+      <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Award</h3>
+      <p>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000799" target="_blank" rel="noopener" style="color: #007acc; text-decoration: none;">
+          Learn More
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- 2) Interview with AP News -->
+  <div style="flex: 1 1 250px; max-width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
+    <img src="{{ '/images/thumbnail1.png' | relative_url }}" alt="AP News Thumbnail" style="width: 100%; height: auto;">
+    <div style="padding: 1rem;">
+      <h3 style="margin: 0 0 0.5rem;">Interview with AP News</h3>
+      <p>
+        <a href="https://apnews.com/article/record-heat-deadly-climate-change-humidity-south-11de21a526e1cbe7e306c47c2f12438d"
+           target="_blank" rel="noopener" style="color: #007acc; text-decoration: none;">
+          Read Article
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- 3) Interview with AGU News -->
+  <div style="flex: 1 1 250px; max-width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
+    <img src="{{ '/images/thumbnail2.png' | relative_url }}" alt="AGU News Thumbnail" style="width: 100%; height: auto;">
+    <div style="padding: 1rem;">
+      <h3 style="margin: 0 0 0.5rem;">Interview with AGU News</h3>
+      <p>
+        <a href="https://news.agu.org/press-release/temperature-related-deaths-could-rise-five-fold-by-end-of-century-in-us/"
+           target="_blank" rel="noopener" style="color: #007acc; text-decoration: none;">
+          Read Article
+        </a>
+      </p>
+    </div>
+  </div>
+
+</div>
