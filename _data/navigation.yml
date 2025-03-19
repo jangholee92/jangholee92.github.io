@@ -18,8 +18,5 @@ main:
   - title: "Interviews"
     url: /pr/
     
-  - title: "Codes"
+  - title: "Codes and Documentations"
     url: /codes/
-    
-  - title: "Books & Documentations"
-    url: /books/
