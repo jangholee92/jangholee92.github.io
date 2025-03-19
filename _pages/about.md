@@ -51,7 +51,7 @@ multiple socioeconomic sectors.
          alt="GeoHealth Award Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Award</h3>
+      <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Paper Award</h3>
       <p>
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000799" 
            target="_blank" 
@@ -76,7 +76,7 @@ multiple socioeconomic sectors.
          alt="AP News Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">Interview with AP News</h3>
+      <h3 style="margin: 0 0 0.5rem;">Interview with the AP News</h3>
       <p>
         <a href="https://apnews.com/article/record-heat-deadly-climate-change-humidity-south-11de21a526e1cbe7e306c47c2f12438d"
            target="_blank" 
@@ -101,7 +101,7 @@ multiple socioeconomic sectors.
          alt="AGU News Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">Interview with AGU News</h3>
+      <h3 style="margin: 0 0 0.5rem;">Interview with the AGU News</h3>
       <p>
         <a href="https://news.agu.org/press-release/temperature-related-deaths-could-rise-five-fold-by-end-of-century-in-us/"
            target="_blank" 
