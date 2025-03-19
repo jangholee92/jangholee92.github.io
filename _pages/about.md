@@ -23,27 +23,29 @@ multiple socioeconomic sectors.
 
 **Featured Updates**
 
-<!-- Container that can accommodate 3 cards side by side on typical desktop, 
-     and gracefully wrap on smaller screens to prevent cutoff or scrolling. -->
+<!-- 
+  Container is fixed at 620px wide, ensuring 3 x 190px cards + gaps fit on a single row 
+  without wrapping or horizontal scroll on typical desktop screens.
+-->
 <div style="
-  margin-top: 2rem; 
-  max-width: 900px; 
+  margin-top: 1.5rem; 
   margin-left: auto; 
   margin-right: auto; 
+  width: 620px; 
   display: flex; 
-  flex-wrap: wrap; 
+  flex-wrap: nowrap; 
   gap: 1rem; 
-  justify-content: center;
+  justify-content: space-between;
 ">
 
   <!-- Card 1: GeoHealth Top Cited Paper Award -->
   <div style="
-    width: 280px; 
+    width: 190px; 
     border: 1px solid #ddd; 
     border-radius: 6px; 
-    overflow: hidden; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
     text-align: center;
+    overflow: hidden;
   ">
     <img src="{{ '/images/thumbnail3.png' | relative_url }}" 
          alt="GeoHealth Award Thumbnail" 
@@ -63,12 +65,12 @@ multiple socioeconomic sectors.
 
   <!-- Card 2: Interview with AP News -->
   <div style="
-    width: 280px; 
+    width: 190px; 
     border: 1px solid #ddd; 
     border-radius: 6px; 
-    overflow: hidden; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
     text-align: center;
+    overflow: hidden;
   ">
     <img src="{{ '/images/thumbnail1.png' | relative_url }}" 
          alt="AP News Thumbnail" 
@@ -88,12 +90,12 @@ multiple socioeconomic sectors.
 
   <!-- Card 3: Interview with AGU News -->
   <div style="
-    width: 280px; 
+    width: 190px; 
     border: 1px solid #ddd; 
     border-radius: 6px; 
-    overflow: hidden; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
     text-align: center;
+    overflow: hidden;
   ">
     <img src="{{ '/images/thumbnail2.png' | relative_url }}" 
          alt="AGU News Thumbnail" 
