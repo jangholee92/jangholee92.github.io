@@ -15,10 +15,10 @@ redirect_from:
 ## EDUCATION
 
 **TEXAS A&M UNIVERSITY (2018–2023)**  
-Doctor of Philosophy in Atmospheric Science  
+*Doctor of Philosophy in Atmospheric Science*
 
 **SEOUL NATIONAL UNIVERSITY (2011–2018)**  
-Bachelor of Science in Earth and Environmental Science  
+*Bachelor of Science in Earth and Environmental Science*
 
 ---
 
