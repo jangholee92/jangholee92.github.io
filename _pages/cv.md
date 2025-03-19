@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[<a href="/files/cv.pdf">Link to Full CV [Last Updated 3/18/2025]</a>]
+[<a href="/files/cv.pdf">Link to Full CV</a>] - Last Updated 3/18/2025
 
 ---
 
@@ -16,6 +16,7 @@ redirect_from:
 
 **TEXAS A&M UNIVERSITY (2018–2023)**  
 Doctor of Philosophy in Atmospheric Science  
+
 **SEOUL NATIONAL UNIVERSITY (2011–2018)**  
 Bachelor of Science in Earth and Environmental Science  
 
@@ -25,6 +26,7 @@ Bachelor of Science in Earth and Environmental Science
 
 **UNIVERSITY OF ILLINOIS CHICAGO (2023–Present)**  
 *Postdoctoral Researcher*  
+
 **TEXAS A&M UNIVERSITY (2018–2023)**  
 *Graduate Research Assistant*  
 
