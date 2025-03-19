@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 ---
 
+**About Me**
 
 I am a Postdoctoral Researcher working in University of Illinois Chicago. 
 I am working in a Community Research on Climate and Urban Science (CROCUS) project, 
