@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Codes"
+title: "Codes, Documentations, and Textbooks"
 permalink: /codes/
 ---
 Below are some of my active/open-source (unless documented in the repository) projects including Python Packages, Documentations, and Textbooks.
