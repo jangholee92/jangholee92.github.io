@@ -26,7 +26,7 @@ Featured Updates
 <div style="margin-top: 2rem; display: flex; flex-wrap: nowrap; gap: 1rem; justify-content: center; overflow-x: auto;">
 
   <!-- Card 1: GeoHealth Top Cited Paper Award -->
-  <div style="min-width: 250px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
+  <div style="min-width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
     <img src="{{ '/images/thumbnail3.png' | relative_url }}" alt="GeoHealth Award Thumbnail" style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
       <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Award</h3>
@@ -39,7 +39,7 @@ Featured Updates
   </div>
 
   <!-- Card 2: Interview with AP News -->
-  <div style="min-width: 250px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
+  <div style="min-width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
     <img src="{{ '/images/thumbnail1.png' | relative_url }}" alt="AP News Thumbnail" style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
       <h3 style="margin: 0 0 0.5rem;">Interview with AP News</h3>
@@ -53,7 +53,7 @@ Featured Updates
   </div>
 
   <!-- Card 3: Interview with AGU News -->
-  <div style="min-width: 250px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
+  <div style="min-width: 300px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
     <img src="{{ '/images/thumbnail2.png' | relative_url }}" alt="AGU News Thumbnail" style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
       <h3 style="margin: 0 0 0.5rem;">Interview with AGU News</h3>
