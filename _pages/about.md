@@ -47,7 +47,7 @@ multiple socioeconomic sectors.
          alt="GeoHealth Award Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Award</h3>
+      <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Paper Award</h3>
       <p>
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000799" 
            target="_blank" 
