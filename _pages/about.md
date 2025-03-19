@@ -11,7 +11,7 @@ redirect_from:
   <!-- The src uses a Liquid filter to handle baseurl if it’s not empty -->
   <img src="{{ '/images/frontPage.png' | relative_url }}" 
        alt="Illustration created with DALL-E"
-       style="max-width: 800px; width: 100%; height: auto;">
+       style="max-width: 780; width: 100%; height: auto;">
   <figcaption style="font-style: italic;">
     Image created with DALL-E
   </figcaption>
