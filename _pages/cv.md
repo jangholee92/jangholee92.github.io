@@ -9,56 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## EDUCATION
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**TEXAS A&M UNIVERSITY (2018–2023)**  
+Doctor of Philosophy in Atmospheric Science  
+- Advisor: Dr. Andrew Dessler  
+- Thesis: *Extreme Temperature Events Caused by Climate Change and Variability: Drivers and its Impact*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**SEOUL NATIONAL UNIVERSITY (2011–2018)**  
+Bachelor of Science in Earth and Environmental Science  
+- Advisor: Dr. Kwang-Yul Kim  
+- Thesis: *Analysis of Source Regions and Meteorological Factors for the Variability of Spring PM10 Concentrations in Seoul, Korea*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## RESEARCH EXPERIENCE & PROFESSIONAL APPOINTMENT
+
+**UNIVERSITY OF ILLINOIS CHICAGO (2023–Present)**  
+*Postdoctoral Researcher*  
+- Led the publication of multiple papers on urban climate research and presented at various conferences  
+- Directed collaboration with ANL and ORNL for E3SM & ELM simulations  
+- Managed the social engagement program in partnership with the Puerto Rican Agenda of Chicago  
+- Served as a leader of the postdoc association to lead the CROCUS meeting at UIC  
+
+**TEXAS A&M UNIVERSITY (2018–2023)**  
+*Graduate Research Assistant*  
+- Led the publication of multiple peer-reviewed papers on extreme climate and socioeconomic impact  
+- Led the team in Cyber-Training program held at University of Maryland Baltimore County  
+- Served as international student representative and electives representative in Graduate Student Council  
+
+**SEOUL NATIONAL UNIVERSITY (2014–2018)**  
+*Undergraduate Intern*  
+- Led the publication of multiple peer-reviewed papers on statistical climate, extreme temperature events, and dust source identification research  
+- Presented findings at various conferences  
+
+---
+
+## COMMUNITY ENGAGEMENT & OTHER EXPERIENCES
+
+**PUERTO RICAN AGENDA & CHATHAM BLACK COMMUNITY OF CHICAGO (2024–Present)**  
+*Scientific Advising Committee*  
+- Facilitated a town hall meeting to propose the Tree Equity Grant of Chicago  
+
+**REPUBLIC OF KOREA ARMY (2012–2014)**  
+*Drill Sergeant at Korean Army Training Center*  
+- Trained 3,000+ incoming soldiers annually  
+
+---
+
+[<a href="/files/cv.pdf">Link to Full CV</a>]
