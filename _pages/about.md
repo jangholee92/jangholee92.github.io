@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Jangho Lee, Ph.D."
 author_profile: true
 redirect_from:
   - /about/
