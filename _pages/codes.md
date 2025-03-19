@@ -11,5 +11,5 @@ Below are some of my active/open-source (unless documented in the repository) pr
 2. [**ELM_Tutorial**](https://github.com/jangholee92/ELM_Tutorial)  
    Documentation and examples for E3SM & ELM with OLMT.  
 
-3. [**Python and Statistics for Climate Informatics**](https://github.com/jangholee92/ELM_Tutorial)  
+3. [**Python and Statistics for Climate Informatics**](https://github.com/jangholee92/pythonForCI)  
   Textbook: Accessible entry point into the intersection of programming, statistical analysis, and climate science.  
