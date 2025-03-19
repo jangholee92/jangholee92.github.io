@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[<a href="/files/cv.pdf">Link to Full CV</a>]
+[<a href="/files/cv.pdf">Link to Full CV [Last Updated 3/18/2025]</a>]
 
 ---
 
@@ -16,13 +16,8 @@ redirect_from:
 
 **TEXAS A&M UNIVERSITY (2018–2023)**  
 Doctor of Philosophy in Atmospheric Science  
-- Advisor: Dr. Andrew Dessler  
-- Thesis: *Extreme Temperature Events Caused by Climate Change and Variability: Drivers and its Impact*
-
 **SEOUL NATIONAL UNIVERSITY (2011–2018)**  
 Bachelor of Science in Earth and Environmental Science  
-- Advisor: Dr. Kwang-Yul Kim  
-- Thesis: *Analysis of Source Regions and Meteorological Factors for the Variability of Spring PM10 Concentrations in Seoul, Korea*
 
 ---
 
