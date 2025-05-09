@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[<a href="/files/CV.pdf">Link to Full CV</a>] - Last Updated 4/25/2025
+[<a href="/files/CV.pdf">Link to Full CV</a>] - Last Updated 5/9/2025
 
 ---
 
