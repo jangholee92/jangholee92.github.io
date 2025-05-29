@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at the University of Illinois Chicago, currently 
 
 As an urban climate scientist, my research primarily focuses on urban natural hazards, particularly flooding and extreme heat events. To tackle these complex issues, I integrate diverse data sources, including remote sensing, sensor (IoT) measurements, reanalysis products, climate model outputs, radar, and lidar observations. Additionally, I merge these datasets with urban infrastructure and socioeconomic information to evaluate the detailed impacts of natural hazards on urban systems. My analytical approach incorporates advanced statistical models and deep learning techniques to effectively integrate and interpret these diverse datasets.
 
-Ultimately, my research aims to: 1) Identify atmospheric conditions unique to urban environments that lead to natural hazards. 2) Analyze the consequences of natural hazards on urban infrastructure, socioeconomic factors, and human well-being. 3) Develop and assess adaptation and mitigation strategies, emphasizing Nature-based Solutions (NbS).
+Ultimately, my research aims to: 1) Identify atmospheric conditions unique to urban environments that lead to natural hazards. 2) Analyze the consequences of natural hazards on urban infrastructure, socioeconomic factors, and human well-being. 3) Develop and assess adaptation and mitigation strategies in a changing climate, emphasizing Nature-based Solutions (NbS). 
 
 ---
 
