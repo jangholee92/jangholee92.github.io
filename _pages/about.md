@@ -8,16 +8,11 @@ redirect_from:
 
 **About Me**
 
-I am a Postdoctoral Researcher working in University of Illinois Chicago. 
-I am working in a Community Research on Climate and Urban Science (CROCUS) project, 
-in conjunction with Argonne National Lab (ANL).
+I am a Postdoctoral Researcher at the University of Illinois Chicago, currently working on the Community Research on Climate and Urban Science (CROCUS) project in collaboration with Argonne National Laboratory (ANL).
 
-I am an atmospheric scientist, interested in climate informatics, remote sensing, 
-and data analysis. My work analyzes climate data from various sources, such as 
-remote sensing data, reanalysis data, and station-based measurements. With those data, 
-I use climate modeling and advanced statistical and machine-learning methods to enhance 
-our understanding of urban climate, and further integrate our climate knowledge with 
-multiple socioeconomic sectors.
+As an urban climate scientist, my research primarily focuses on urban natural hazards, particularly flooding and extreme heat events. To tackle these complex issues, I integrate diverse data sources, including remote sensing, sensor (IoT) measurements, reanalysis products, climate model outputs, radar, and lidar observations. Additionally, I merge these datasets with urban infrastructure and socioeconomic information to evaluate the detailed impacts of natural hazards on urban systems. My analytical approach incorporates advanced statistical models and deep learning techniques to effectively integrate and interpret these diverse datasets.
+
+Ultimately, my research aims to: 1) Identify atmospheric conditions unique to urban environments that lead to natural hazards. 2) Analyze the consequences of natural hazards on urban infrastructure, socioeconomic factors, and human well-being. 3) Develop and assess adaptation and mitigation strategies, emphasizing Nature-based Solutions (NbS).
 
 ---
 
