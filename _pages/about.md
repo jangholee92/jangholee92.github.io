@@ -7,12 +7,31 @@ redirect_from:
 ---
 
 **About Me**
+<p>
+  I am a <strong>Postdoctoral Researcher</strong> at the University of Illinois Chicago,
+  working on the <strong>CROCUS</strong> project in collaboration with <strong>Argonne National Laboratory</strong>.
+  Within this effort, I serve as the <strong>Planning Lead</strong> for the
+  <em>Artificial Intelligence and Digital Twins (AIDT)</em> initiative.
+</p>
 
-I am a Postdoctoral Researcher at the University of Illinois Chicago, currently working on the Community Research on Climate and Urban Science (CROCUS) project in collaboration with Argonne National Laboratory (ANL).
-
-As an urban climate scientist, my research primarily focuses on urban natural hazards, particularly flooding and extreme heat events. To tackle these complex issues, I integrate diverse data sources, including remote sensing, sensor (IoT) measurements, reanalysis products, climate model outputs, radar, and lidar observations. Additionally, I merge these datasets with urban infrastructure and socioeconomic information to evaluate the detailed impacts of natural hazards on urban systems. My analytical approach incorporates advanced statistical models and deep learning techniques to effectively integrate and interpret these diverse datasets.
-
-Ultimately, my research aims to: 1) Identify atmospheric conditions unique to urban environments that lead to natural hazards. 2) Analyze the consequences of natural hazards on urban infrastructure, socioeconomic factors, and human well-being. 3) Develop and assess adaptation and mitigation strategies in a changing climate, emphasizing Nature-based Solutions (NbS). 
+<h3>Urban Climate Research Focus</h3>
+<ol>
+  <li>
+    <strong>Environmental Data Measurement</strong> —
+    I integrate multi-scale observations, including satellite products, urban IoT networks,
+    soil and tree (SAP) sensors, radar, and lidar, to capture critical urban environmental characteristics.
+  </li>
+  <li>
+    <strong>AI-Enhanced Environmental Monitoring</strong> —
+    Using advanced AI methods such as GANs, BRITS, and BiLSTMs, I improve the accuracy, resolution,
+    and continuity of urban environmental measurements.
+  </li>
+  <li>
+    <strong>From Data to Human Exposure & Impact</strong> —
+    I translate environmental datasets into actionable insights related to human exposure,
+    climate adaptation and mitigation, and nature-based solutions (NbS) to inform urban resilience.
+  </li>
+</ol>
 
 ---
 
