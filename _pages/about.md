@@ -11,7 +11,7 @@ redirect_from:
   I am a <strong>Postdoctoral Researcher</strong> at the University of Illinois Chicago,
   working on the <strong>CROCUS</strong> project in collaboration with <strong>Argonne National Laboratory</strong>.
   Within this effort, I serve as the <strong>Planning Lead</strong> for the
-  <em>Artificial Intelligence and Digital Twins (AIDT)</em> initiative.
+  <strong>Artificial Intelligence and Digital Twins (AIDT)</strong> initiative.
 </p>
 
 <h3>Urban Climate Research Focus</h3>
