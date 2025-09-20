@@ -14,7 +14,7 @@ redirect_from:
   <strong>Artificial Intelligence and Digital Twins (AIDT)</strong> initiative.
 </p>
 
-<h3>Urban Climate Research Focus</h3>
+<h3>Research Focus</h3>
 <ol>
   <li>
     <strong>Environmental Data Measurement</strong> —
