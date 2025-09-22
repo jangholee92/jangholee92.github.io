@@ -19,7 +19,7 @@ redirect_from:
   <li>
     <strong>Environmental Data Measurement</strong> —
     I integrate multi-scale observations, including satellite products, urban IoT networks,
-    soil and tree (SAP) sensors, radar, and lidar, to capture critical urban environmental characteristics.
+    soil and tree (e.g., SAP) sensors, radar, and lidar, to capture critical urban environmental characteristics.
   </li>
   <li>
     <strong>AI-Enhanced Environmental Monitoring</strong> —
