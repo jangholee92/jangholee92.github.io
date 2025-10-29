@@ -62,11 +62,7 @@ redirect_from:
   text-align: center;
   overflow: hidden;
   transition: opacity 0.3s ease;
-}
-
-/* 초기에 4번째 카드부터 숨김 (JavaScript가 로드되기 전) */
-.feature-carousel-wrapper .feature-card:nth-of-type(n+4) {
-  display: none;
+  display: none; /* 초기에 숨김 - JavaScript가 보여줄 카드만 표시 */
 }
 
 .feature-card img {
