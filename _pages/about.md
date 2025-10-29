@@ -216,4 +216,53 @@ redirect_from:
   <button class="carousel-btn-next" aria-label="Next cards">›</button>
 </div>
 
-<script src="{{ '/assets/js/plugins/carousel.js' | relative_url }}"></script>
+<script>
+(function() {
+  function initCarousel() {
+    const container = document.querySelector('.feature-carousel-container');
+    if (!container) return;
+
+    const cards = container.querySelectorAll('.feature-card');
+    const prevBtn = container.querySelector('.carousel-btn-prev');
+    const nextBtn = container.querySelector('.carousel-btn-next');
+    
+    let currentIndex = 0;
+    const totalCards = cards.length;
+    
+    function updateVisibility() {
+      cards.forEach((card, index) => {
+        if (index >= currentIndex && index < currentIndex + 3) {
+          card.style.setProperty('display', 'block', 'important');
+        } else {
+          card.style.setProperty('display', 'none', 'important');
+        }
+      });
+      
+      prevBtn.style.display = currentIndex > 0 ? 'flex' : 'none';
+      nextBtn.style.display = currentIndex + 3 < totalCards ? 'flex' : 'none';
+    }
+    
+    nextBtn.addEventListener('click', function() {
+      if (currentIndex + 3 < totalCards) {
+        currentIndex++;
+        updateVisibility();
+      }
+    });
+    
+    prevBtn.addEventListener('click', function() {
+      if (currentIndex > 0) {
+        currentIndex--;
+        updateVisibility();
+      }
+    });
+    
+    updateVisibility();
+  }
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initCarousel);
+  } else {
+    initCarousel();
+  }
+})();
+</script>
