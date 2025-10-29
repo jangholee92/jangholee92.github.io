@@ -48,9 +48,34 @@ redirect_from:
   justify-content: space-between;
 ">
 
-  <!-- Card 1: GeoHealth Top Cited Paper Award -->
+  <!-- Card 1: AGU GEC Early Career Spotlight -->
   <div style="
-    width: 230px;  /* Increased card width */
+    width: 172px;
+    border: 1px solid #ddd; 
+    border-radius: 6px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+    text-align: center;
+    overflow: hidden;
+  ">
+    <img src="{{ '/images/earlyCareer.jpeg' | relative_url }}" 
+         alt="AGU GEC Early Career Spotlight" 
+         style="width: 100%; height: auto;">
+    <div style="padding: 1rem;">
+      <h3 style="margin: 0 0 0.5rem; font-size: 0.9rem;">AGU GEC Early Career Spotlight</h3>
+      <p>
+        <a href="https://connect.agu.org/gec/webinars/future-webinar" 
+           target="_blank" 
+           rel="noopener" 
+           style="color: #007acc; text-decoration: none;">
+          Learn More
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Card 2: GeoHealth Top Cited Paper Award -->
+  <div style="
+    width: 172px;
     border: 1px solid #ddd; 
     border-radius: 6px; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
@@ -61,7 +86,7 @@ redirect_from:
          alt="GeoHealth Award Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">GeoHealth Top Cited Paper Award</h3>
+      <h3 style="margin: 0 0 0.5rem; font-size: 0.9rem;">GeoHealth Top Cited Paper Award</h3>
       <p>
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000799" 
            target="_blank" 
@@ -73,9 +98,9 @@ redirect_from:
     </div>
   </div>
 
-  <!-- Card 2: Interview with AP News -->
+  <!-- Card 3: Interview with AP News -->
   <div style="
-    width: 230px; 
+    width: 172px; 
     border: 1px solid #ddd; 
     border-radius: 6px; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
@@ -86,7 +111,7 @@ redirect_from:
          alt="AP News Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">Interview with AP News</h3>
+      <h3 style="margin: 0 0 0.5rem; font-size: 0.9rem;">Interview with AP News</h3>
       <p>
         <a href="https://apnews.com/article/record-heat-deadly-climate-change-humidity-south-11de21a526e1cbe7e306c47c2f12438d"
            target="_blank" 
@@ -98,9 +123,9 @@ redirect_from:
     </div>
   </div>
 
-  <!-- Card 3: Interview with AGU News -->
+  <!-- Card 4: Interview with AGU News -->
   <div style="
-    width: 230px; 
+    width: 172px; 
     border: 1px solid #ddd; 
     border-radius: 6px; 
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
@@ -111,7 +136,7 @@ redirect_from:
          alt="AGU News Thumbnail" 
          style="width: 100%; height: auto;">
     <div style="padding: 1rem;">
-      <h3 style="margin: 0 0 0.5rem;">Interview with AGU News</h3>
+      <h3 style="margin: 0 0 0.5rem; font-size: 0.9rem;">Interview with AGU News</h3>
       <p>
         <a href="https://news.agu.org/press-release/temperature-related-deaths-could-rise-five-fold-by-end-of-century-in-us/"
            target="_blank" 
