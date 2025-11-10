@@ -11,27 +11,38 @@ redirect_from:
   I am a <strong>Postdoctoral Researcher</strong> at the University of Illinois Chicago,
   working on the <strong>CROCUS</strong> project in collaboration with <strong>Argonne National Laboratory</strong>.
   Within this effort, I serve as the <strong>Planning Lead</strong> for the
-  <strong>Artificial Intelligence and Digital Twins (AIDT)</strong> initiative.
+  <strong>Artificial Intelligence and Digital Twins (AIDT)</strong> initiative, advancing data-driven
+  approaches to understand and manage complex urban climate systems.
 </p>
 
 <h3>Research Focus</h3>
 <ol>
   <li>
-    <strong>Environmental Data Measurement</strong> —
-    I integrate multi-scale observations, including satellite products, urban IoT networks,
-    soil and tree (e.g., SAP) sensors, radar, and lidar, to capture critical urban environmental characteristics.
+    <strong>Urban Climate Physics</strong> —
+    I study how urban form, surface energy balance, and anthropogenic heat shape local microclimates.
+    My work integrates physical climate modeling with high-resolution environmental sensing to uncover
+    the mechanisms behind urban heat, flooding, and air-quality dynamics.
   </li>
   <li>
-    <strong>AI-Enhanced Environmental Monitoring</strong> —
-    Using advanced AI methods such as GANs, BRITS, and BiLSTMs, I improve the accuracy, resolution,
-    and continuity of urban environmental measurements.
+    <strong>AI-Enhanced Environmental Data Science</strong> —
+    I develop AI-driven frameworks that combine satellite, sensor, and model data to enhance environmental
+    observability. Using methods such as convolutional and recurrent networks, hybrid physics–AI models,
+    and generative architectures, I reconstruct, downscale, and interpret complex environmental processes.
   </li>
   <li>
-    <strong>From Data to Human Exposure & Impact</strong> —
-    I translate environmental datasets into actionable insights related to human exposure,
-    climate adaptation and mitigation, and nature-based solutions (NbS) to inform urban resilience.
+    <strong>Climate Impacts and Urban Resilience</strong> —
+    I link physical and social dimensions of climate impacts by quantifying how urban heat, flooding,
+    and pollution intersect with socioeconomic vulnerability. My research translates environmental data
+    into actionable insights for equitable climate adaptation and mitigation.
+  </li>
+  <li>
+    <strong>Digital Twin Systems for Climate Intelligence</strong> —
+    I lead efforts to build urban digital twin frameworks that fuse real-time sensing, AI analytics,
+    and physics-based simulations. These systems enable adaptive forecasting, scenario testing,
+    and evidence-based decision support for sustainable and resilient urban design.
   </li>
 </ol>
+
 
 ---
 
