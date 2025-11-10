@@ -237,13 +237,13 @@
       &.has-children {
         > a,
         > .masthead__menu-label {
-          padding-right: 1.75rem;
+          padding-right: 1.25rem;
 
           &:after {
             content: "";
             position: absolute;
             top: 50%;
-            right: 0.5rem;
+            right: 0.2rem;
             width: 0.45rem;
             height: 0.45rem;
             border-right: 1px solid var(--global-masthead-link-color);
