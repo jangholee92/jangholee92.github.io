@@ -237,15 +237,15 @@
       &.has-children {
         > a,
         > .masthead__menu-label {
-          padding-right: 1.0rem;
+          padding-right: 0.6rem;
 
           &:after {
             content: "";
             position: absolute;
             top: 50%;
-            right: 0.1rem;
-            width: 0.45rem;
-            height: 0.45rem;
+            right: -0.1rem;
+            width: 0.35rem;
+            height: 0.35rem;
             border-right: 1px solid var(--global-masthead-link-color);
             border-bottom: 1px solid var(--global-masthead-link-color);
             transform: translateY(-35%) rotate(45deg);
