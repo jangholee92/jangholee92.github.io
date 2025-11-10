@@ -15,7 +15,6 @@ main:
     url: /publications/
 
   - title: "Research Area"
-    url: /research-area/
     children:
       - title: "AI and Data Generation"
         url: /research-area/ai-and-data-generation/

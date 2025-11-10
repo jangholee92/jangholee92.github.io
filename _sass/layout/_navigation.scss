@@ -189,6 +189,15 @@
     }
   }
 
+  .masthead__menu-label {
+    display: block;
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+    color: var(--global-masthead-link-color);
+    font-weight: 400;
+    cursor: default;
+  }
+
   button {
     position: absolute;
     height: 2.5rem;
@@ -226,7 +235,8 @@
       }
 
       &.has-children {
-        > a {
+        > a,
+        > .masthead__menu-label {
           padding-right: 1.75rem;
 
           &:after {
@@ -264,6 +274,7 @@
               margin: 0;
               padding: 0.5rem 1rem;
               font-size: $type-size-6;
+              font-weight: 400;
               white-space: nowrap;
 
               &:hover,
