@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <figure>
-  <img src="/images/climate_impact.png" alt="Scenario probabilities for ERCOT seasonal peak demand" />
+  <img src="/images/climate_impact.png" alt="Scenario probabilities for ERCOT seasonal peak demand" style="max-height: 360px; width: auto;" />
   <figcaption><em>Probablity of power usage in Texas using ensemble of CESM-LE projections.</em></figcaption>
 </figure>
 

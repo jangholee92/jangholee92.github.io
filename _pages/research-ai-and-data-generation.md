@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <figure>
-  <img src="/images/ai.png" alt="Generated precipitation fields using cGAN_ext compared with observations" />
+  <img src="/images/ai.png" alt="Generated precipitation fields using cGAN_ext compared with observations" style="max-height: 360px; width: auto;" />
   <figcaption><em>Downscaled precipitation fields using WGAN-GP based conditional GAN with extreme critic, and its comparison with other methods.</em></figcaption>
 </figure>
 

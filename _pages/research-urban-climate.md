@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <figure>
-  <img src="/images/urban_climate.png" alt="Chicago heat index transects collected during the CROCUS campaign" />
+  <img src="/images/urban_climate.png" alt="Chicago heat index transects collected during the CROCUS campaign" style="max-height: 360px; width: auto;" />
   <figcaption><em>Chicago heat index transects collected during the Heat Watch campaign.</em></figcaption>
 </figure>
 
