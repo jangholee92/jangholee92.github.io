@@ -6,9 +6,9 @@ excerpt: "Synthetic data, machine learning, and digital twin development for env
 author_profile: true
 ---
 
-<figure>
-  <img src="/images/ai.png" alt="Generated precipitation fields using cGAN_ext compared with observations" style="max-height: 360px; width: auto;" />
-  <figcaption><em>Downscaled precipitation fields using WGAN-GP based conditional GAN with extreme critic, and its comparison with other methods.</em></figcaption>
+<figure style="text-align: center;">
+  <img src="/images/ai.png" alt="Generated precipitation fields using cGAN_ext compared with observations" style="max-height: 360px; width: auto; margin: 0 auto; display: block;" />
+  <figcaption style="text-align: center;"><em>Downscaled precipitation fields using WGAN-GP based conditional GAN with extreme critic, and its comparison with other methods.</em></figcaption>
 </figure>
 
 I build AI pipelines that turn sparse environmental observations into continuous, analysis-ready data. Working across radar products, satellites, and in situ networks, I use generative adversarial networks, sequence models, and physics-informed learning to sharpen spatial detail, recover missing values, and flag extremes. These approaches make high-resolution digital twins of urban climates possible, preserving physical structure while amplifying signal fidelity for downstream decision tools.
