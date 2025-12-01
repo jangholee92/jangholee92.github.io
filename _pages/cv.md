@@ -8,17 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[<a href="/files/CV.pdf">Link to Full CV</a>] - Last Updated 10/28/2025
-
----
-
-## EDUCATION
-
-**TEXAS A&M UNIVERSITY (2018–2023)**  
-*Doctor of Philosophy in Atmospheric Science*
-
-**SEOUL NATIONAL UNIVERSITY (2011–2018)**  
-*Bachelor of Science in Earth and Environmental Science*
+[<a href="/files/CV.pdf">Link to Full CV</a>] - Last Updated 11/14/2025
 
 ---
 
@@ -32,6 +22,15 @@ redirect_from:
 
 **SEOUL NATIONAL UNIVERSITY (2014–2018)**  
 *Undergraduate Intern*  
+
+---
+## EDUCATION
+
+**TEXAS A&M UNIVERSITY (2018–2023)**  
+*Doctor of Philosophy in Atmospheric Science*
+
+**SEOUL NATIONAL UNIVERSITY (2011–2018)**  
+*Bachelor of Science in Earth and Environmental Science*
 
 ---
 
