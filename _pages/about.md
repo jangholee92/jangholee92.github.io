@@ -8,41 +8,11 @@ redirect_from:
 
 **About Me**
 <p>
-  I am a <strong>Postdoctoral Researcher</strong> at the University of Illinois Chicago,
-  working on the <strong>CROCUS</strong> project in collaboration with <strong>Argonne National Laboratory</strong>.
-  Within this effort, I serve as the <strong>Planning Lead</strong> for the
-  <strong>Artificial Intelligence and Digital Twins (AIDT)</strong> initiative, advancing data-driven
-  approaches to understand and manage complex urban climate systems.
-</p>
-
-<h3>Research Focus</h3>
-<ol>
-  <li>
-    <strong>Urban Climate Physics</strong> —
-    I study how urban form, surface energy balance, and anthropogenic heat shape local microclimates.
-    My work integrates physical climate modeling with high-resolution environmental sensing to uncover
-    the mechanisms behind urban heat, flooding, and air-quality dynamics.
-  </li>
-  <li>
-    <strong>AI-Enhanced Environmental Data Science</strong> —
-    I develop AI-driven frameworks that combine satellite, sensor, and model data to enhance environmental
-    observability. Using methods such as convolutional and recurrent networks, hybrid physics–AI models,
-    and generative architectures, I reconstruct, downscale, and interpret complex environmental processes.
-  </li>
-  <li>
-    <strong>Climate Impacts and Urban Resilience</strong> —
-    I link physical and social dimensions of climate impacts by quantifying how urban heat, flooding,
-    and pollution intersect with socioeconomic vulnerability. My research translates environmental data
-    into actionable insights for equitable climate adaptation and mitigation.
-  </li>
-  <li>
-    <strong>Digital Twin Systems for Climate Intelligence</strong> —
-    I lead efforts to build urban digital twin frameworks that fuse real-time sensing, AI analytics,
-    and physics-based simulations. These systems enable adaptive forecasting, scenario testing,
-    and evidence-based decision support for sustainable and resilient urban design.
-  </li>
-</ol>
-
+  I am a Postdoctoral Researcher at the Courant Institute of Mathematical Sciences, New York University. Prior to this role, I served as a Postdoctoral Research Associate at the University of Illinois Chicago, where I worked in close collaboration with Argonne National Laboratory.
+  
+  Currently, my research is centered on two primary pillars. The first is AI-based downscaling of climate data, with a specific focus on leveraging generative frameworks such as Diffusion models and GANs to enhance spatial resolution and capture fine-grained atmospheric features. The second is urban climate, encompassing multi-scale observations, physical analysis, numerical modeling, and comprehensive impact assessments.
+  
+  However, these two areas are deeply interconnected. The high-fidelity climate signals generated through AI downscaling are essential for understanding the complex microclimates of urban environments. By integrating generative AI with physical urban modeling, I aim to bridge the gap between global climate projections and local-scale realities, ultimately providing more accurate tools for urban heat mitigation and climate resilience planning.
 
 ---
 

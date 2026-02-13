@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-[<a href="/files/CV.pdf">Link to Full CV</a>] - Last Updated 11/14/2025
+[<a href="/files/CV.pdf">Link to Full CV</a>] - Last Updated 2/13/2026
 
 ---
 
 ## RESEARCH EXPERIENCE & PROFESSIONAL APPOINTMENT
 
-**UNIVERSITY OF ILLINOIS CHICAGO (2023–Present)**  
+**New York University (2026-Present)**  
+*Postdoctoral Researcher*  
+
+**UNIVERSITY OF ILLINOIS CHICAGO (2023-2026)**  
 *Postdoctoral Researcher*  
 
 **TEXAS A&M UNIVERSITY (2018–2023)**  
