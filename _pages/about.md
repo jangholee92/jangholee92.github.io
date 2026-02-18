@@ -6,67 +6,232 @@ redirect_from:
   - /about.html
 ---
 
-**About Me**
-<p>
-  I am a Postdoctoral Researcher at the Courant Institute of Mathematical Sciences, New York University. Prior to this role, I served as a Postdoctoral Research Associate at the University of Illinois Chicago, where I worked in close collaboration with Argonne National Laboratory.<br>
-  
-  Currently, my research is centered on two primary pillars. The first is AI-based downscaling of climate data, with a specific focus on leveraging generative frameworks such as Diffusion models and GANs to enhance spatial resolution and capture fine-grained atmospheric features. The second is urban climate, encompassing multi-scale observations, physical analysis, numerical modeling, and comprehensive impact assessments.<br>
-  
-  However, these two areas are deeply interconnected. The high-fidelity climate signals generated through AI downscaling are essential for understanding the complex microclimates of urban environments. By integrating generative AI with physical urban modeling, I aim to bridge the gap between global climate projections and local-scale realities, ultimately providing more accurate tools for urban heat mitigation and climate resilience planning.<br>
+<div class="about-me-section">
+  <p>
+    I am a <strong>Postdoctoral Researcher</strong> at the <span class="nyu-accent">Courant Institute of Mathematical Sciences, New York University (NYU)</span>. 
+    Prior to this role, I served as a Postdoctoral Research Associate at the University of Illinois Chicago, where I worked in close collaboration with <strong>Argonne National Laboratory</strong>.
+  </p>
 
----
+  <p>Currently, my research is centered on two primary pillars:</p>
+  
+  <ul class="research-pillars">
+    <li>
+      <strong>AI-driven Climate Downscaling:</strong> 
+      Focusing on generative frameworks such as <span class="nyu-accent">Diffusion models and GANs</span> to enhance spatial resolution and capture fine-grained atmospheric features.
+    </li>
+    <li>
+      <strong>Urban Climate Dynamics:</strong> 
+      Encompassing multi-scale observations, physical analysis, and numerical modeling for comprehensive impact assessments.
+    </li>
+  </ul>
 
-**Featured Updates**
+  <p>
+    These areas are deeply interconnected. By integrating <span class="nyu-accent">high-fidelity AI signals</span> with physical urban modeling, 
+    I aim to bridge the gap between global climate projections and local-scale realities. 
+    This work ultimately provides accurate tools for <strong>urban heat mitigation</strong> and <strong>climate resilience planning</strong>.
+  </p>
+</div>
+
+<hr style="margin: 2rem 0; border: 0; border-top: 1px solid #eee;">
+
+<h2 class="section-title">Featured Updates</h2>
+
+<div class="feature-carousel-container">
+  <button class="carousel-btn-prev" aria-label="Previous">❮</button>
+  
+  <div class="feature-carousel-wrapper">
+    <div class="feature-card">
+      <img src="{{ '/images/earlyCareer.jpeg' | relative_url }}" alt="AGU GEC Spotlight">
+      <div class="card-content">
+        <h3>AGU GEC Early Career Spotlight</h3>
+        <a href="https://connect.agu.org/gec/webinars/future-webinar" target="_blank" rel="noopener" class="card-link">Learn More →</a>
+      </div>
+    </div>
+
+    <div class="feature-card">
+      <img src="{{ '/images/thumbnail3.png' | relative_url }}" alt="GeoHealth Award">
+      <div class="card-content">
+        <h3>GeoHealth Top Cited Paper Award</h3>
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000799" target="_blank" rel="noopener" class="card-link">Learn More →</a>
+      </div>
+    </div>
+
+    <div class="feature-card">
+      <img src="{{ '/images/thumbnail1.png' | relative_url }}" alt="AP News Interview">
+      <div class="card-content">
+        <h3>Interview with AP News</h3>
+        <a href="https://apnews.com/article/record-heat-deadly-climate-change-humidity-south-11de21a526e1cbe7e306c47c2f12438d" target="_blank" rel="noopener" class="card-link">Read Article →</a>
+      </div>
+    </div>
+
+    <div class="feature-card">
+      <img src="{{ '/images/thumbnail2.png' | relative_url }}" alt="AGU News Interview">
+      <div class="card-content">
+        <h3>Interview with AGU News</h3>
+        <a href="https://news.agu.org/press-release/temperature-related-deaths-could-rise-five-fold-by-end-of-century-in-us/" target="_blank" rel="noopener" class="card-link">Read Article →</a>
+      </div>
+    </div>
+  </div>
+  
+  <button class="carousel-btn-next" aria-label="Next">❯</button>
+</div>
 
 <style>
+/* NYU Brand Colors */
+:root {
+  --nyu-purple: #57068c;
+  --nyu-purple-light: #7b26ad;
+}
+
+/* About Me Styles */
+.about-me-section {
+  line-height: 1.75;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.nyu-accent {
+  color: var(--nyu-purple);
+  font-weight: 600;
+}
+
+.research-pillars {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.5rem 0;
+}
+
+.research-pillars li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.research-pillars li::before {
+  content: "•";
+  color: var(--nyu-purple);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* Carousel Section Header */
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  position: relative;
+  display: inline-block;
+  color: #222;
+}
+
+.section-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 40px;
+  height: 3px;
+  background-color: var(--nyu-purple);
+}
+
+/* Carousel Container */
 .feature-carousel-container {
   position: relative;
-  margin-top: 1.5rem;
-  margin-left: auto;
-  margin-right: auto;
-  width: 740px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .feature-carousel-wrapper {
   display: flex;
-  flex-wrap: nowrap;
-  gap: 1rem;
-  justify-content: space-between;
+  gap: 1.25rem;
+  justify-content: flex-start;
+  overflow: hidden;
+  padding: 15px 5px;
 }
 
+/* Card Design */
 .feature-card {
-  width: 230px;
-  flex-shrink: 0;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  text-align: center;
+  width: 235px;
+  background: #fff;
+  border: 1px solid #efefef;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  display: none; /* Hidden by default, toggled by JS */
+  flex-direction: column;
+  position: relative;
   overflow: hidden;
-  transition: opacity 0.3s ease;
-  display: none; /* 초기에 숨김 - JavaScript가 보여줄 카드만 표시 */
+}
+
+.feature-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.1);
+  border-color: #ddd;
+}
+
+/* NYU Top-line accent on hover */
+.feature-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background-color: var(--nyu-purple);
+  transition: height 0.3s ease;
+  z-index: 1;
+}
+
+.feature-card:hover::before {
+  height: 4px;
 }
 
 .feature-card img {
   width: 100%;
-  height: auto;
+  height: 140px;
+  object-fit: cover;
+  border-bottom: 1px solid #f5f5f5;
 }
 
 .feature-card .card-content {
-  padding: 1rem;
+  padding: 1.2rem 1rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .feature-card h3 {
-  margin: 0 0 0.5rem;
+  margin: 0 0 1rem;
   font-size: 0.9rem;
+  line-height: 1.4;
+  font-weight: 600;
+  color: #333;
+  min-height: 2.8rem;
 }
 
+.card-link {
+  color: var(--nyu-purple);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: auto;
+}
+
+.card-link:hover {
+  color: var(--nyu-purple-light);
+  text-decoration: underline;
+}
+
+/* Navigation Buttons */
 .carousel-btn-prev,
 .carousel-btn-next {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid #ddd;
+  background: #fff;
+  border: 1px solid #eee;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -74,130 +239,46 @@ redirect_from:
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  font-size: 20px;
-  color: #333;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
   z-index: 10;
+  color: #444;
 }
 
-.carousel-btn-prev {
-  left: -50px;
+.carousel-btn-prev { left: -55px; }
+.carousel-btn-next { right: -55px; }
+
+.carousel-btn-prev:hover, .carousel-btn-next:hover {
+  background: var(--nyu-purple);
+  color: #fff;
+  border-color: var(--nyu-purple);
 }
 
-.carousel-btn-next {
-  right: -50px;
-}
-
-.carousel-btn-prev:hover,
-.carousel-btn-next:hover {
-  background: #fff;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.3);
-}
-
-.carousel-btn-prev:active,
-.carousel-btn-next:active {
-  transform: translateY(-50%) scale(0.95);
+/* Responsive Adjustments */
+@media screen and (max-width: 950px) {
+  .carousel-btn-prev { left: -20px; }
+  .carousel-btn-next { right: -20px; }
 }
 
 @media screen and (max-width: 900px) {
-  .carousel-btn-prev,
-  .carousel-btn-next {
-    display: none !important;
-  }
-  
-  .feature-carousel-container {
-    width: 100%;
-  }
-  
-  .feature-carousel-wrapper {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  
+  .carousel-btn-prev, .carousel-btn-next { display: none !important; }
+  .feature-carousel-wrapper { flex-wrap: wrap; justify-content: center; }
   .feature-card {
-    width: calc(33.333% - 0.67rem);
+    width: calc(50% - 0.75rem);
+    display: flex !important;
   }
+}
+
+@media screen and (max-width: 500px) {
+  .feature-card { width: 100%; }
 }
 </style>
 
-<div class="feature-carousel-container">
-  <button class="carousel-btn-prev" aria-label="Previous cards">‹</button>
-  
-  <div class="feature-carousel-wrapper">
-    <!-- Card 1: AGU GEC Early Career Spotlight -->
-    <div class="feature-card">
-      <img src="{{ '/images/earlyCareer.jpeg' | relative_url }}" 
-           alt="AGU GEC Early Career Spotlight">
-      <div class="card-content">
-        <h3>AGU GEC Early Career Spotlight</h3>
-        <p>
-          <a href="https://connect.agu.org/gec/webinars/future-webinar" 
-             target="_blank" 
-             rel="noopener" 
-             style="color: #007acc; text-decoration: none;">
-            Learn More
-          </a>
-        </p>
-      </div>
-    </div>
-
-    <!-- Card 2: GeoHealth Top Cited Paper Award -->
-    <div class="feature-card">
-      <img src="{{ '/images/thumbnail3.png' | relative_url }}" 
-           alt="GeoHealth Award Thumbnail">
-      <div class="card-content">
-        <h3>GeoHealth Top Cited Paper Award</h3>
-        <p>
-          <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000799" 
-             target="_blank" 
-             rel="noopener" 
-             style="color: #007acc; text-decoration: none;">
-            Learn More
-          </a>
-        </p>
-      </div>
-    </div>
-
-    <!-- Card 3: Interview with AP News -->
-    <div class="feature-card">
-      <img src="{{ '/images/thumbnail1.png' | relative_url }}" 
-           alt="AP News Thumbnail">
-      <div class="card-content">
-        <h3>Interview with AP News</h3>
-        <p>
-          <a href="https://apnews.com/article/record-heat-deadly-climate-change-humidity-south-11de21a526e1cbe7e306c47c2f12438d"
-             target="_blank" 
-             rel="noopener" 
-             style="color: #007acc; text-decoration: none;">
-            Read Article
-          </a>
-        </p>
-      </div>
-    </div>
-
-    <!-- Card 4: Interview with AGU News -->
-    <div class="feature-card">
-      <img src="{{ '/images/thumbnail2.png' | relative_url }}" 
-           alt="AGU News Thumbnail">
-      <div class="card-content">
-        <h3>Interview with AGU News</h3>
-        <p>
-          <a href="https://news.agu.org/press-release/temperature-related-deaths-could-rise-five-fold-by-end-of-century-in-us/"
-             target="_blank" 
-             rel="noopener" 
-             style="color: #007acc; text-decoration: none;">
-            Read Article
-          </a>
-        </p>
-      </div>
-    </div>
-  </div>
-  
-  <button class="carousel-btn-next" aria-label="Next cards">›</button>
-</div>
-
 <script>
+/**
+ * Initialize Carousel functionality
+ * Handles card visibility and navigation based on screen size
+ */
 (function() {
   function initCarousel() {
     const container = document.querySelector('.feature-carousel-container');
@@ -209,37 +290,53 @@ redirect_from:
     
     let currentIndex = 0;
     const totalCards = cards.length;
+    const cardsToShow = 3;
     
     function updateVisibility() {
-      cards.forEach((card, index) => {
-        if (index >= currentIndex && index < currentIndex + 3) {
-          card.style.setProperty('display', 'block', 'important');
-        } else {
-          card.style.setProperty('display', 'none', 'important');
-        }
-      });
+      const isDesktop = window.innerWidth > 900;
       
-      prevBtn.style.display = currentIndex > 0 ? 'flex' : 'none';
-      nextBtn.style.display = currentIndex + 3 < totalCards ? 'flex' : 'none';
+      if (isDesktop) {
+        cards.forEach((card, index) => {
+          // Show only 3 cards starting from currentIndex
+          if (index >= currentIndex && index < currentIndex + cardsToShow) {
+            card.style.display = 'flex';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+        
+        // Toggle button visibility based on position
+        prevBtn.style.display = currentIndex > 0 ? 'flex' : 'none';
+        nextBtn.style.display = currentIndex + cardsToShow < totalCards ? 'flex' : 'none';
+      } else {
+        // Mobile view: show all cards in a grid/stack
+        cards.forEach(card => card.style.display = 'flex');
+      }
     }
     
-    nextBtn.addEventListener('click', function() {
-      if (currentIndex + 3 < totalCards) {
+    // Event Listeners for Navigation
+    nextBtn.addEventListener('click', () => {
+      if (currentIndex + cardsToShow < totalCards) {
         currentIndex++;
         updateVisibility();
       }
     });
     
-    prevBtn.addEventListener('click', function() {
+    prevBtn.addEventListener('click', () => {
       if (currentIndex > 0) {
         currentIndex--;
         updateVisibility();
       }
     });
     
+    // Update on resize to handle transition between mobile/desktop
+    window.addEventListener('resize', updateVisibility);
+    
+    // Initial call
     updateVisibility();
   }
   
+  // Load after DOM is ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initCarousel);
   } else {
