@@ -6,7 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-**About Me**
+<div style="margin-top: 40px; font-weight: bold; font-size: 1.2em;">
+  About Me
+</div>
 <p>
   I am a Postdoctoral Researcher at the Courant Institute of Mathematical Sciences, New York University. Prior to this role, I served as a Postdoctoral Research Associate at the University of Illinois Chicago, where I worked in close collaboration with Argonne National Laboratory.<br><br>
   
