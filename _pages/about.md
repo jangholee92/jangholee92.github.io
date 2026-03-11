@@ -8,15 +8,18 @@ redirect_from:
 
 **About Me**
 <p>
-  I am a Postdoctoral Researcher at the Courant Institute of Mathematical Sciences, New York University. Prior to this role, I served as a Postdoctoral Research Associate at the University of Illinois Chicago, where I worked in close collaboration with Argonne National Laboratory.<br>
+  I am a Postdoctoral Researcher at the Courant Institute of Mathematical Sciences, New York University. Prior to this role, I served as a Postdoctoral Research Associate at the University of Illinois Chicago, where I worked in close collaboration with Argonne National Laboratory.<br><br>
   
-  Currently, my research is centered on two primary pillars. The first is AI-based downscaling of climate data, with a specific focus on leveraging generative frameworks such as Diffusion models and GANs to enhance spatial resolution and capture fine-grained atmospheric features. The second is urban climate, encompassing multi-scale observations, physical analysis, numerical modeling, and comprehensive impact assessments.<br>
+  Currently, my research is centered on two primary pillars. The first is AI-based downscaling of climate data, with a specific focus on leveraging generative frameworks such as Diffusion models and GANs to enhance spatial resolution and capture fine-grained atmospheric features. The second is urban climate, encompassing multi-scale observations, physical analysis, numerical modeling, and comprehensive impact assessments.<br><br>
   
-  However, these two areas are deeply interconnected. The high-fidelity climate signals generated through AI downscaling are essential for understanding the complex microclimates of urban environments. By integrating generative AI with physical urban modeling, I aim to bridge the gap between global climate projections and local-scale realities, ultimately providing more accurate tools for urban heat mitigation and climate resilience planning.<br>
+  However, these two areas are deeply interconnected. The high-fidelity climate signals generated through AI downscaling are essential for understanding the complex microclimates of urban environments. By integrating generative AI with physical urban modeling, I aim to bridge the gap between global climate projections and local-scale realities, ultimately providing more accurate tools for urban heat mitigation and climate resilience planning.
+</p>
 
----
+<hr>
 
-**Featured Updates**
+<div style="margin-top: 40px; font-weight: bold; font-size: 1.2em;">
+  Featured Updates
+</div>
 
 <style>
 .feature-carousel-container {
