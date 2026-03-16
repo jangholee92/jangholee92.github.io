@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-top: 40px; font-weight: bold; font-size: 1.2em;">
+<div style="margin-top: 5px; font-weight: bold; font-size: 1.2em;">
   About Me
 </div>
 <p>
