@@ -1,0 +1,41 @@
+---
+import { getCollection } from "astro:content"
+import PageLayout from "@layouts/PageLayout.astro"
+import TopLayout from "@layouts/TopLayout.astro"
+import BottomLayout from "@layouts/BottomLayout.astro"
+import PublicationList from "@components/PublicationList"
+import { LAST_UPDATED } from "@consts"
+
+const allPublicationsEntries = await getCollection("publications")
+const publications = allPublicationsEntries.flatMap(entry => entry.data)
+
+const published = publications.filter(p => p.type === "Published").sort((a, b) => b.year - a.year)
+const underReview = publications.filter(p => p.type === "Under Review").sort((a, b) => b.year - a.year)
+
+const title = "Publications"
+const description = "Peer-reviewed journal articles and research manuscripts."
+---
+
+<PageLayout title={title} description={description}>
+  <TopLayout>
+    <div class="animate">
+      <div class="flex items-end justify-between">
+        <h1 class="text-3xl font-semibold text-black dark:text-white mt-2">
+          {title}
+        </h1>
+        <span class="text-xs opacity-50 mb-1">
+          Last Updated: {LAST_UPDATED}
+        </span>
+      </div>
+    </div>
+  </TopLayout>
+  <BottomLayout>
+    <div class="animate">
+      <PublicationList 
+        client:load 
+        published={published} 
+        underReview={underReview} 
+      />
+    </div>
+  </BottomLayout>
+</PageLayout>

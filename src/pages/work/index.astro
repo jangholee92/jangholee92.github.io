@@ -1,0 +1,104 @@
+---
+import { getCollection } from "astro:content"
+import PageLayout from "@layouts/PageLayout.astro"
+import TopLayout from "@layouts/TopLayout.astro"
+import BottomLayout from "@layouts/BottomLayout.astro"
+import { WORK, LAST_UPDATED } from "@consts"
+
+const workCollection = await getCollection("work")
+workCollection.sort((a, b) => new Date(b.data.dateStart).getTime() - new Date(a.data.dateStart).getTime())
+
+const work = await Promise.all(
+  workCollection.map(async (item) => {
+    const { Content } = await item.render()
+    return { ...item, Content }
+  })
+)
+
+const educationCollection = await getCollection("education")
+educationCollection.sort((a, b) => new Date(b.data.dateStart).getTime() - new Date(a.data.dateStart).getTime())
+
+const education = await Promise.all(
+  educationCollection.map(async (item) => {
+    const { Content } = await item.render()
+    return { ...item, Content }
+  })
+)
+---
+
+<PageLayout title={WORK.TITLE} description={WORK.DESCRIPTION}>
+  <TopLayout>
+    <div class="animate">
+      <div class="flex items-end justify-between">
+        <h1 class="text-3xl font-semibold text-black dark:text-white mt-2">
+          {WORK.TITLE}
+        </h1>
+        <span class="text-xs opacity-50 mb-1">
+          Last Updated: {LAST_UPDATED}
+        </span>
+      </div>
+      <div class="mt-4">
+        <a href="/files/CV.pdf" target="_blank" class="py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend">
+          View Full CV (PDF)
+        </a>
+      </div>
+    </div>
+  </TopLayout>
+  <BottomLayout>
+    <div class="space-y-12">
+      <!-- Professional Experience -->
+      <section>
+        <h2 class="text-xl font-bold text-black dark:text-white mb-4 flex items-center gap-2">
+          <span class="w-1.5 h-6 bg-blue-600 rounded-full"></span>
+          Professional Experience
+        </h2>
+        <ul class="space-y-2">
+          { 
+            work.map((entry) => (
+              <li class="border-b border-black/10 dark:border-white/25 py-2 first-of-type:pt-0 last-of-type:border-none">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline">
+                  <div class="text-black dark:text-white font-semibold text-lg">
+                    {entry.data.company}
+                  </div>
+                  <div class="text-xs font-semibold opacity-60">
+                    {entry.data.role}
+                  </div>
+                </div>
+                <article class="prose prose-sm dark:prose-invert max-w-none mt-1">
+                  <entry.Content />
+                </article>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
+      <!-- Education -->
+      <section>
+        <h2 class="text-xl font-bold text-black dark:text-white mb-4 flex items-center gap-2">
+          <span class="w-1.5 h-6 bg-amber-500 rounded-full"></span>
+          Education
+        </h2>
+        <ul class="space-y-2">
+          { 
+            education.map((entry) => (
+              <li class="border-b border-black/10 dark:border-white/25 py-2 first-of-type:pt-0 last-of-type:border-none">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline">
+                  <div class="text-black dark:text-white font-semibold text-lg">
+                    {entry.data.school}
+                  </div>
+                  <div class="text-xs font-semibold opacity-60">
+                    {entry.data.degree}
+                  </div>
+                </div>
+                <article class="prose prose-sm dark:prose-invert max-w-none mt-1">
+                  <entry.Content />
+                </article>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    </div>
+  </BottomLayout>
+</PageLayout>

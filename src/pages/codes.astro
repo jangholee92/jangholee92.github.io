@@ -1,0 +1,45 @@
+---
+import PageLayout from "@layouts/PageLayout.astro"
+import TopLayout from "@layouts/TopLayout.astro"
+import BottomLayout from "@layouts/BottomLayout.astro"
+
+const title = "Codes & Resources"
+const description = "Open-source projects, documentation, and textbooks."
+---
+
+<PageLayout title={title} description={description}>
+  <TopLayout>
+    <div class="animate">
+      <h1 class="text-3xl font-semibold text-black dark:text-white mt-2">
+        {title}
+      </h1>
+      <div class="mt-1">
+        Below are some of my active/open-source projects including Python Packages, Documentations, and Textbooks.
+      </div>
+    </div>
+  </TopLayout>
+  <BottomLayout>
+    <div class="animate space-y-8">
+      <div class="border border-black/10 dark:border-white/10 p-6 rounded-lg space-y-2">
+        <h2 class="text-xl font-bold text-black dark:text-white">
+          <a href="https://github.com/jangholee92/stelar_gam" target="_blank" class="hover:underline">STELAR-GAM</a>
+        </h2>
+        <p>A Python package for Spatio-Temporal Lag-based Generalized Additive Model Regression.</p>
+      </div>
+
+      <div class="border border-black/10 dark:border-white/10 p-6 rounded-lg space-y-2">
+        <h2 class="text-xl font-bold text-black dark:text-white">
+          <a href="https://github.com/jangholee92/ELM_Tutorial" target="_blank" class="hover:underline">ELM_Tutorial</a>
+        </h2>
+        <p>Documentation and examples for E3SM & ELM with OLMT.</p>
+      </div>
+
+      <div class="border border-black/10 dark:border-white/10 p-6 rounded-lg space-y-2">
+        <h2 class="text-xl font-bold text-black dark:text-white">
+          <a href="https://github.com/jangholee92/pythonForCI" target="_blank" class="hover:underline">Python and Statistics for Climate Informatics</a>
+        </h2>
+        <p>Textbook: Accessible entry point into the intersection of programming, statistical analysis, and climate science.</p>
+      </div>
+    </div>
+  </BottomLayout>
+</PageLayout>
