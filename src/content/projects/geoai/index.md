@@ -12,13 +12,13 @@ Current priorities include tailoring AI architectures to multi-sensor fusion, en
 ### Representative Publications
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, & Dessler, A. E. (2024). Improved Surface Urban Heat Impact Assessment Using GOES Satellite Data: A Comparative Study With ERA‐5. <em>Geophysical Research Letters</em>. [[pdf](/files/2024_LeeDessler_GRL.pdf)]
+  <strong>Lee, J.</strong>, & Dessler, A. E. (2024). Improved Surface Urban Heat Impact Assessment Using GOES Satellite Data: A Comparative Study With ERA‐5. <em>Geophysical Research Letters</em>. <a href="/files/2024_LeeDessler_GRL.pdf">PDF</a>
 </div>
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, Berkelhammer, M., et al. (2025). Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning-based Probabilities. <em>Big Earth Data</em>. [[pdf](/files/2026_LeeEtAl_TBED.pdf)]
+  <strong>Lee, J.</strong>, Berkelhammer, M., et al. (2025). Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning-based Probabilities. <em>Big Earth Data</em>. <a href="/files/2026_LeeEtAl_TBED.pdf">PDF</a>
 </div>
 
 <div class="pub-card">
-  Kotamarthi, R., ... <strong>Lee, J.</strong>, et al. (2025) Artificial Intelligence-Enabled Digital Twin for U.S. Cities. <em>Bulletin of the American Meteorological Society</em>. [[pdf](/files/2025_KotamarthiEtAl_BAMS.pdf)]
+  Kotamarthi, R., ... <strong>Lee, J.</strong>, et al. (2025) Artificial Intelligence-Enabled Digital Twin for U.S. Cities. <em>Bulletin of the American Meteorological Society</em>. <a href="/files/2025_KotamarthiEtAl_BAMS.pdf">PDF</a>
 </div>

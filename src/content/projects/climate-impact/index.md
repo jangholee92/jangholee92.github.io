@@ -12,13 +12,13 @@ Recent studies examine how climate-driven power demand challenges grid reliabili
 ### Representative Publications
 
 <div class="pub-card">
-  <strong>Lee, J.</strong> (2025). Online Signals of Vulnerability: Revealing City-Level Response to Extreme Heat Using Google Trends. <em>Environmental Research Letters</em>. [[pdf](/files/2025_Lee_ERL.pdf)]
+  <strong>Lee, J.</strong> (2025). Online Signals of Vulnerability: Revealing City-Level Response to Extreme Heat Using Google Trends. <em>Environmental Research Letters</em>. <a href="/files/2025_Lee_ERL.pdf">PDF</a>
 </div>
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, & Dessler, A. E. (2023). Future Temperature‐Related Deaths in the US: The Impact of Climate Change, Demographics, and Adaptation. <em>GeoHealth</em>. [[pdf](/files/2023_LeeDessler_GH.pdf)]
+  <strong>Lee, J.</strong>, & Dessler, A. E. (2023). Future Temperature‐Related Deaths in the US: The Impact of Climate Change, Demographics, and Adaptation. <em>GeoHealth</em>. <a href="/files/2023_LeeDessler_GH.pdf">PDF</a>
 </div>
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, & Dessler, A. E. (2022). The Impact of Neglecting Climate Change and Variability on ERCOT’s Forecasts of Electricity Demand in Texas. <em>Weather, Climate, and Society</em>. [[pdf](/files/2022_LeeDessler_WCAS.pdf)]
+  <strong>Lee, J.</strong>, & Dessler, A. E. (2022). The Impact of Neglecting Climate Change and Variability on ERCOT’s Forecasts of Electricity Demand in Texas. <em>Weather, Climate, and Society</em>. <a href="/files/2022_LeeDessler_WCAS.pdf">PDF</a>
 </div>

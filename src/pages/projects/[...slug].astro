@@ -43,9 +43,12 @@ const { Content } = await project.render()
     @apply text-2xl font-bold text-black dark:text-white mt-12 mb-6 border-l-4 border-blue-600 pl-4;
   }
   .project-article :global(.pub-card) {
-    @apply p-4 my-4 rounded-xl border border-black/10 dark:border-white/20 bg-black/5 dark:bg-white/5 transition-all duration-300;
+    @apply p-6 my-6 rounded-2xl border border-black/10 dark:border-white/20 bg-black/[0.02] dark:bg-white/[0.02] transition-all duration-300;
   }
   .project-article :global(.pub-card:hover) {
-    @apply bg-black/[0.08] dark:bg-white/[0.08] border-black/20 dark:border-white/30;
+    @apply bg-black/[0.05] dark:bg-white/[0.05] border-black/20 dark:border-white/30 shadow-lg;
+  }
+  .project-article :global(.pub-card a) {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold no-underline transition-colors ml-2;
   }
 </style>
