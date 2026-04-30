@@ -5,14 +5,11 @@ date: "Jan 01 2026"
 draft: false
 ---
 
-My research in **GeoAI** focuses on developing high-fidelity downscaling frameworks for climate variables. By leveraging state-of-the-art generative models, I work to enhance the spatial and temporal resolution of coarse global simulations, delivering analysis-ready data for regional impact assessments.
+I build AI pipelines that turn sparse environmental observations into continuous, analysis-ready data. Working across radar products, satellites, and in situ networks, I use generative adversarial networks, sequence models, and physics-informed learning to sharpen spatial detail, recover missing values, and flag extremes. These approaches make high-resolution digital twins of urban climates possible, preserving physical structure while amplifying signal fidelity for downstream decision tools.
 
-### Key Pillars
-*   **Generative Frameworks:** Utilizing **Diffusion models** and **Generative Adversarial Networks (GANs)** to synthesize high-resolution atmospheric features and precipitation fields.
-*   **Physics-Informed Learning:** Enforcing physical constraints (e.g., energy conservation, moisture balance) within neural network architectures to ensure physically consistent downscaling.
-*   **Multi-Sensor Fusion:** Developing architectures that integrate heterogeneous data streams, including satellite remote sensing (e.g., GOES, MODIS), radar products, and in-situ sensor networks.
+Current priorities include tailoring AI architectures to multi-sensor fusion, enforcing physical constraints during training, and delivering interpretable outputs for planners and scientists. By combining deep learning with process knowledge, I aim to deliver fast, trustworthy datasets that support early-warning systems and resilient infrastructure design.
 
-### Relevant Articles
-1.  **Lee, J.**, & Park, S.Y. (2025). WGAN-GP-Based Conditional GAN (cGAN) with Extreme Critic for Precipitation Downscaling in a Key Agricultural Region of the Northeast U.S. *IEEE Access–GRSS*.
-2.  **Lee, J.**, Berkelhammer, M., et al. (2024). Urban Land Surface Temperature Downscaling in Chicago: Addressing Ethnic Inequality and Gentrification. *Remote Sensing*.
-3.  **Lee, J.**, Shi, Y. R., et al. (2021). Machine Learning Based Algorithms for Global Dust Aerosol Detection from Satellite Images: Inter-Comparisons and Evaluation. *Remote Sensing*.
+### Representative Publications
+1.  **Lee, J.**, & Dessler, A. E. (2024). Improved Surface Urban Heat Impact Assessment Using GOES Satellite Data: A Comparative Study With ERA‐5. *Geophysical Research Letters*. [[pdf](/files/2024_LeeDessler_GRL.pdf)]
+2.  **Lee, J.**, Berkelhammer, M., et al. (2025). Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning-based Probabilities. *Big Earth Data*. [[pdf](/files/2026_LeeEtAl_TBED.pdf)]
+3.  Kotamarthi, R., ... **Lee, J.**, et al. (2025) Artificial Intelligence-Enabled Digital Twin for U.S. Cities. *Bulletin of the American Meteorological Society*. [[pdf](/files/2025_KotamarthiEtAl_BAMS.pdf)]
