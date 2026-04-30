@@ -31,7 +31,21 @@ const { Content } = await project.render()
   <BottomLayout>
     <div class="animate">
       <ArticleBottomLayout entry={project} />
-      <Content />
+      <article class="project-article">
+        <Content />
+      </article>
     </div>
   </BottomLayout>
 </PageLayout>
+
+<style>
+  .project-article :global(h3) {
+    @apply text-2xl font-bold text-black dark:text-white mt-12 mb-6 border-l-4 border-blue-600 pl-4;
+  }
+  .project-article :global(.pub-card) {
+    @apply p-4 my-4 rounded-xl border border-black/10 dark:border-white/20 bg-black/5 dark:bg-white/5 transition-all duration-300;
+  }
+  .project-article :global(.pub-card:hover) {
+    @apply bg-black/[0.08] dark:bg-white/[0.08] border-black/20 dark:border-white/30;
+  }
+</style>

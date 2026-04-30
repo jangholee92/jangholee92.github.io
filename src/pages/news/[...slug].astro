@@ -31,7 +31,18 @@ const { Content } = await post.render()
   <BottomLayout>
     <div class="animate">
       <ArticleBottomLayout entry={post} />
-      <Content />
+      <article class="news-article">
+        <Content />
+      </article>
     </div>
   </BottomLayout>
 </PageLayout>
+
+<style>
+  .news-article :global(img) {
+    max-width: 50% !important;
+    margin: 2rem auto !important;
+    border-radius: 0.75rem;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  }
+</style>
