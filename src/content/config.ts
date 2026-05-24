@@ -60,6 +60,7 @@ const publications = defineCollection({
     pdfUrl: z.string().optional(),
     doi: z.string().optional(),
     type: z.enum(["Published", "Under Review"]),
+    status: z.string().optional(),
     tags: z.array(z.string()).optional(),
   })),
 })

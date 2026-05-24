@@ -8,6 +8,7 @@ type Publication = {
   pdfUrl?: string
   doi?: string
   type: "Published" | "Under Review"
+  status?: string
   tags?: string[]
 }
 
@@ -152,6 +153,11 @@ export default function PublicationList(props: Props) {
                             <div class="text-sm mt-1 italic opacity-80" innerHTML={pub.authors} />
                             <div class="text-sm mt-1 flex items-center gap-3">
                               <span class="font-medium text-xs opacity-75">{pub.journal}</span>
+                              {pub.status && (
+                                <span class="text-[10px] bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 px-2 py-0.5 rounded font-bold">
+                                  {pub.status}
+                                </span>
+                              )}
                               {pub.pdfUrl && (
                                 <a href={pub.pdfUrl} target="_blank" class="text-[10px] bg-blue-500/10 text-blue-600 dark:text-blue-400 px-2 py-0.5 rounded hover:bg-blue-500/20 transition-colors flex items-center gap-1 font-bold">
                                   PDF
