@@ -12,6 +12,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., O'Brien, J., McNicol, G., Vincent, A.E.S., Grover, M., Kaludi, B., Gonzalez-Meler, M., Cho, A., Packman, A. I.",
     "journal": "Environmental Monitoring and Assessment",
     "year": 2026,
+    "acceptedDate": "2026-02-16",
     "pdfUrl": "/files/2026_LeeEtAl_EMA.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Sensor Networks", "Urban Climate", "Hydro-Climate", "Data Quality"]
@@ -21,6 +22,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., Vincent, A.E.S., Grover, M., Cho, A., Packman, A.I., Kaludi, B., Gonzalez-Meler, M., McNicol, G",
     "journal": "Big Earth Data",
     "year": 2026,
+    "acceptedDate": "2026-01-12",
     "pdfUrl": "/files/2026_LeeEtAl_TBED.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Sensor Networks", "Urban Climate", "Physical Modeling", "Data Quality"]
@@ -30,6 +32,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Shamekh, S.",
     "journal": "Machine Learning: Earth",
     "year": 2026,
+    "sortPriority": 1,
     "type": "Published",
     "status": "In Press",
     "tags": ["GeoAI", "Hydro-Climate", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
@@ -63,6 +66,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "Environmental Research Letters",
     "year": 2025,
+    "acceptedDate": "2025-11-18",
     "pdfUrl": "/files/2025_Lee_ERL.pdf",
     "type": "Published",
     "tags": ["Climate Impact", "Public Health", "Urban Climate", "Social Data", "Risk Assessment"]
@@ -72,6 +76,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Park, S, Y., Wadhwa, A., Packman, A., Nesbitt, S., Sharma, A., Berkelhammer, M., Garcia, M. H., Kotamarthi, R., Hence, D., & Miller, W",
     "journal": "Environmental Research: Water",
     "year": 2025,
+    "acceptedDate": "2025-09-24",
     "pdfUrl": "/files/2025_LeeEtAl_ERW.pdf",
     "type": "Published",
     "tags": ["Hydro-Climate", "Remote Sensing", "Urban Climate", "Physical Modeling", "Atmospheric Science"]
@@ -81,6 +86,7 @@
     "authors": "Kotamarthi, R.*, Wang, J., Stock, J., Fytanidis, D. K., Munson, T., Niyogi, D., Muradyan, P., Jackson, R., Collis, S., Gonzalez-Meler, M. A., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Sharma, A., Wang, S., Kaludi, B., Kaplan, M., Nesbitt, S. W., Martilli, A., Jacob, R., Negri, C.",
     "journal": "Bulletin of the American Meteorological Society",
     "year": 2025,
+    "acceptedDate": "2025-08-26",
     "pdfUrl": "/files/2025_KotamarthiEtAl_BAMS.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Urban Climate", "Physical Modeling", "Digital Twins", "Atmospheric Science"]
@@ -90,6 +96,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Berkelhammer, M.",
     "journal": "Geophysical Research Letters",
     "year": 2025,
+    "acceptedDate": "2025-07-29",
     "pdfUrl": "/files/2025_LeeBerkelhammer_GRL.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "Remote Sensing", "Transportation", "Atmospheric Science", "Physical Modeling"]
@@ -99,6 +106,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., Park, S. Y., Wilson, M",
     "journal": "Environmental Research: Infrastructure and Sustainability",
     "year": 2025,
+    "acceptedDate": "2025-05-02",
     "pdfUrl": "/files/2025_LeeEtAl_ERIS.pdf",
     "type": "Published",
     "tags": ["Hydro-Climate", "Urban Climate", "Climate Impact", "Public Health", "Environmental Justice"]
@@ -108,6 +116,7 @@
     "authors": "Cho, A.*, Love, N., Cintron, R., Nicholson, J., Xu, L., Nunez-Mir, G., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Berkelhammer, M., Gonzalez-Meler, M",
     "journal": "Environmental Research Letters",
     "year": 2025,
+    "acceptedDate": "2025-04-04",
     "pdfUrl": "/files/2025_ChoEtAl_ERL.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "Ecology", "Microclimate", "Sustainability", "Physical Modeling"]
@@ -117,6 +126,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Park. S.Y.",
     "journal": "IEEE Access–Geoscience and Remote Sensing Society Section",
     "year": 2025,
+    "acceptedDate": "2025-03-05",
     "pdfUrl": "/files/2025_LeePark_IEEE.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Hydro-Climate", "Remote Sensing", "Atmospheric Science", "Extreme Events"]
@@ -126,6 +136,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "IEEE Access–Geoscience and Remote Sensing Society Section",
     "year": 2025,
+    "acceptedDate": "2025-02-10",
     "pdfUrl": "/files/2025_Lee_IEEE_A2.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "GeoAI", "Remote Sensing", "Physical Modeling", "Atmospheric Science"]
@@ -135,6 +146,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "IEEE Access–Geoscience and Remote Sensing Society Section",
     "year": 2025,
+    "acceptedDate": "2025-02-03",
     "pdfUrl": "/files/2025_Lee_IEEE_A1.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Urban Climate", "Remote Sensing", "Atmospheric Science", "Physical Modeling"]
@@ -144,6 +156,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Berkelhammer, M.",
     "journal": "Geophysical Research Letters",
     "year": 2024,
+    "acceptedDate": "2024-10-14",
     "pdfUrl": "/files/2024_LeeBerkelhammer_GRL.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "Remote Sensing", "Ecology", "Atmospheric Science", "Physical Modeling"]
@@ -153,6 +166,7 @@
     "authors": "Cho, A.*, Dziedzic, N., Davis, A., Hanson, C., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Nunez-Mir, G., Gonzalez-Meler, M. A.",
     "journal": "Frontiers in Plant Science Functional Plant Ecology",
     "year": 2024,
+    "acceptedDate": "2024-11-25",
     "pdfUrl": "/files/2024_ChoEtAl_FP.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "Ecology", "Plant Physiology", "Sustainability", "Microclimate"]
@@ -162,6 +176,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "Weather, Climate, and Society",
     "year": 2024,
+    "acceptedDate": "2024-03-18",
     "pdfUrl": "/files/2024_LEE_WCAS.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "Remote Sensing", "Climate Impact", "Socio-Equity", "Atmospheric Science"]
@@ -171,6 +186,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., Wilson, M. D., Love, n., & Cintron, R.",
     "journal": "Remote Sensing",
     "year": 2024,
+    "acceptedDate": "2024-05-03",
     "pdfUrl": "/files/2024_LeeEtAl_RS.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Urban Climate", "Remote Sensing", "Socio-Equity", "Physical Modeling"]
@@ -180,6 +196,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Hu, M.",
     "journal": "International Journal of Environmental Research and Public Health",
     "year": 2024,
+    "acceptedDate": "2024-03-20",
     "pdfUrl": "/files/2024_LeeHu_IJERPH.pdf",
     "type": "Published",
     "tags": ["Climate Impact", "Public Health", "Environmental Justice", "Risk Assessment", "Socio-Equity"]
@@ -189,6 +206,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "Geophysical Research Letters",
     "year": 2024,
+    "acceptedDate": "2023-12-20",
     "pdfUrl": "/files/2024_LeeDessler_GRL.pdf",
     "type": "Published",
     "tags": ["Urban Climate", "Remote Sensing", "Atmospheric Science", "Physical Modeling", "Data Quality"]
@@ -198,6 +216,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "GeoHealth",
     "year": 2023,
+    "acceptedDate": "2023-06-19",
     "pdfUrl": "/files/2023_LeeDessler_GH.pdf",
     "type": "Published",
     "tags": ["Climate Impact", "Public Health", "Atmospheric Science", "Physical Modeling", "Climate Change"]
@@ -207,6 +226,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "Weather, Climate, and Society",
     "year": 2022,
+    "acceptedDate": "2022-01-05",
     "pdfUrl": "/files/2022_LeeDessler_WCAS.pdf",
     "type": "Published",
     "tags": ["Climate Impact", "Atmospheric Science", "Energy", "Climate Change", "Risk Assessment"]
@@ -216,6 +236,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Mast, J. C., & Dessler, A. E.*",
     "journal": "Atmospheric Chemistry and Physics",
     "year": 2021,
+    "acceptedDate": "2021-07-09",
     "pdfUrl": "/files/2021_LeeEtAl_ACP.pdf",
     "type": "Published",
     "tags": ["Climate Impact", "Atmospheric Science", "Public Health", "Climate Change", "Extreme Events"]
@@ -225,6 +246,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Shi, Y. R., Cai, C., Ciren, P., Wang, J., Gangopadhyay, A., & Zhang, Z.*",
     "journal": "Remote Sensing",
     "year": 2021,
+    "acceptedDate": "2021-01-21",
     "pdfUrl": "/files/2021_LeeEtAl_RS.pdf",
     "type": "Published",
     "tags": ["GeoAI", "Remote Sensing", "Atmospheric Science", "Aerosols", "Meteorology"]
@@ -234,6 +256,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, & Kim, K. Y.*",
     "journal": "Atmospheric Environment",
     "year": 2018,
+    "acceptedDate": "2017-12-11",
     "pdfUrl": "/files/2018_LeeKim_AE.pdf",
     "type": "Published",
     "tags": ["Atmospheric Science", "Urban Climate", "Public Health", "Meteorology", "Air Quality"]
@@ -243,6 +266,7 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "Asia-Pacific Journal of Atmospheric Sciences",
     "year": 2017,
+    "acceptedDate": "2016-08-17",
     "pdfUrl": "/files/2018_LEE_APJAS.pdf",
     "type": "Published",
     "tags": ["Atmospheric Science", "Climate Impact", "Extreme Events", "Meteorology", "Climate Change"]

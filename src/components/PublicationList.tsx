@@ -5,6 +5,8 @@ type Publication = {
   authors: string
   journal: string
   year: number
+  acceptedDate?: string
+  sortPriority?: number
   pdfUrl?: string
   doi?: string
   type: "Published" | "Under Review"
@@ -45,7 +47,11 @@ export default function PublicationList(props: Props) {
     return isFirst || isCorresponding
   }).length
 
-  const currentYears = [2026, 2025, 2024]
+  const publishedYears = createMemo(() => {
+    const years = new Set<number>()
+    filteredPublished().forEach(p => years.add(p.year))
+    return Array.from(years).sort((a, b) => b - a)
+  })
   
   return (
     <div class="space-y-10">
@@ -131,7 +137,7 @@ export default function PublicationList(props: Props) {
             Published Articles
           </h2>
           
-          <For each={currentYears}>
+          <For each={publishedYears()}>
             {(year) => {
               const yearPubs = createMemo(() => filteredPublished().filter(p => p.year === year))
               return (
@@ -182,52 +188,6 @@ export default function PublicationList(props: Props) {
               )
             }}
           </For>
-
-          {/* Before 2024 */}
-          {(() => {
-            const before2024 = createMemo(() => filteredPublished().filter(p => p.year < 2024))
-            return (
-              <div class={before2024().length > 0 ? "space-y-6" : "hidden"}>
-                <h3 class="text-lg font-bold text-blue-500/80 border-b border-blue-500/10 pb-1">
-                  Before 2024
-                </h3>
-                <ul class="space-y-8">
-                  <For each={before2024()}>
-                    {(pub) => (
-                      <li class="group flex gap-4 border-l-2 border-transparent hover:border-blue-500/30 pl-2 transition-all duration-300">
-                        <div class="text-xs font-mono opacity-20 mt-1.5 shrink-0 w-5">
-                          {(props.published.indexOf(pub) + 1).toString().padStart(2, '0')}
-                        </div>
-                        <div class="w-full">
-                          <div class="text-lg font-semibold text-black dark:text-white group-hover:text-blue-500 transition-colors">
-                            {pub.title}
-                          </div>
-                          <div class="text-sm mt-1 italic opacity-80" innerHTML={pub.authors} />
-                          <div class="text-sm mt-1 flex items-center gap-3">
-                            <span class="font-medium text-xs opacity-75">{pub.journal} ({pub.year})</span>
-                            {pub.pdfUrl && (
-                              <a href={pub.pdfUrl} target="_blank" class="text-[10px] bg-blue-500/10 text-blue-600 dark:text-blue-400 px-2 py-0.5 rounded hover:bg-blue-500/20 transition-colors flex items-center gap-1 font-bold">
-                                PDF
-                              </a>
-                            )}
-                          </div>
-                          <div class="flex flex-wrap gap-1.5 mt-3">
-                            <For each={pub.tags}>
-                              {(tag) => (
-                                <span class="text-[9px] uppercase tracking-wider font-bold px-1.5 py-0.5 rounded border border-black/5 dark:border-white/10 opacity-40 group-hover:opacity-100 transition-opacity">
-                                  {tag}
-                                </span>
-                              )}
-                            </For>
-                          </div>
-                        </div>
-                      </li>
-                    )}
-                  </For>
-                </ul>
-              </div>
-            )
-          })()}
         </section>
       </div>
     </div>

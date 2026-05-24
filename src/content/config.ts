@@ -57,6 +57,8 @@ const publications = defineCollection({
     authors: z.string(),
     journal: z.string(),
     year: z.number(),
+    acceptedDate: z.string().optional(),
+    sortPriority: z.number().optional(),
     pdfUrl: z.string().optional(),
     doi: z.string().optional(),
     type: z.enum(["Published", "Under Review"]),
