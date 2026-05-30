@@ -40,7 +40,7 @@ export const LATEST_UPDATES = [
     title: "Google Cloud Platform Research Awards Program Grant",
     url: "/news/google-cloud-platform-research-award",
     type: "News",
-    summary: "Jangho Lee and Sara Shamekh received a $20,000 Google Cloud Platform Research Awards Program grant."
+    summary: "Awarded for Diffusion-Based Multi-Sensor Satellite Fusion for Land Surface Temperature Downscaling Across African Cities."
   },
   {
     title: "How Far Can We Downscale? Resolution Limits and Physical Interpretability of Diffusion Models for African Precipitation",

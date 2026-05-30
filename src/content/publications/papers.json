@@ -46,6 +46,14 @@
     "tags": ["Urban Climate", "Public Health", "Sensor Networks", "Risk Assessment", "Climate Impact"]
   },
   {
+    "title": "Diffusion-Based Multi-Sensor Satellite Fusion for Land Surface Temperature Downscaling Across African Cities",
+    "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Shamekh, S.",
+    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "year": 2026,
+    "type": "Under Review",
+    "tags": ["GeoAI", "Remote Sensing", "Urban Climate", "Physical Modeling", "Climate Impact"]
+  },
+  {
     "title": "Spatiotemporal Response of Urban Bike-Sharing Ridership to Weather, Air Quality, and Future Climate Change in Major U.S. Cities",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M.",
     "journal": "Journal of Environmental Management",
@@ -56,7 +64,7 @@
   {
     "title": "Persistently Arid Soils Amplify the Urban Heat Island of a Mid-latitude Megacity",
     "authors": "Berkelhammer, M.*, <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Vincent, A., Sullivan, R., Cho, A., Packman, A., Matamala, R., Gonzalez-Meler, M., Kaludi, B., Miller, W., Briner, O., Gala, T., Anderson, G., Pal, S., Muradyan, P., Raut, B., Collis, S., Drewniak, B., Romero, W., Larson, U., Sagi, C., Gingerich, M., McNicol, G., Cintron, R., Park, S. Y., Nesbitt, S., Yocca, D., Fears, N. S., Negri, M. C.",
-    "journal": "Science Advances",
+    "journal": "AGU Advances",
     "year": 2026,
     "type": "Under Review",
     "tags": ["Urban Climate", "Hydro-Climate", "Physical Modeling", "Ecology", "Climate Impact"]
