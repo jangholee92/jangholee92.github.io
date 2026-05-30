@@ -8,7 +8,7 @@ export const SITE: Site = {
 }
 
 // Last Updated Date
-export const LAST_UPDATED = "April 18, 2026"
+export const LAST_UPDATED = "May 30, 2026"
 
 // CV Page
 export const WORK: Page = {
@@ -34,25 +34,25 @@ export const SEARCH: Page = {
   DESCRIPTION: "Search publications and research.",
 }
 
-// Manual Latest Updates (Top 3) - Order: Pub, Pub, News
+// Manual Latest Updates (Top 3)
 export const LATEST_UPDATES = [
+  {
+    title: "Google Cloud Platform Research Awards Program Grant",
+    url: "/news/google-cloud-platform-research-award",
+    type: "News",
+    summary: "Jangho Lee and Sara Shamekh received a $20,000 Google Cloud Platform Research Awards Program grant."
+  },
+  {
+    title: "How Far Can We Downscale? Resolution Limits and Physical Interpretability of Diffusion Models for African Precipitation",
+    url: "/publications",
+    type: "Publication",
+    summary: "Recent paper in Machine Learning: Earth on diffusion-model downscaling for African precipitation."
+  },
   {
     title: "Imputation of urban environmental sensor data using gated attention bidirectional long short-term memory (GABiLSTM)",
     url: "/publications",
     type: "Publication",
-    summary: "New methodology for Gap-Filling published in Environmental Monitoring and Assessment (2026)."
-  },
-  {
-    title: "Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning",
-    url: "/publications",
-    type: "Publication",
-    summary: "New quality control framework published in Big Earth Data (2026)."
-  },
-  {
-    title: "AGU GEC Early Career Spotlight",
-    url: "/news/agu-spotlight",
-    type: "News",
-    summary: "Honored to be featured in the AGU Global Environmental Change (GEC) Early Career Spotlight."
+    summary: "New methodology for gap-filling published in Environmental Monitoring and Assessment (2026)."
   }
 ]
 
