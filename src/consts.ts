@@ -37,6 +37,12 @@ export const SEARCH: Page = {
 // Manual Latest Updates (Top 3)
 export const LATEST_UPDATES = [
   {
+    title: "Climate Investment Challenge Winner",
+    url: "/news/climate-investment-challenge",
+    type: "News",
+    summary: "Jangho Lee and Juyeon Kim won the Climate Investment Challenge as a team."
+  },
+  {
     title: "Google Cloud Platform Research Awards Program Grant",
     url: "/news/google-cloud-platform-research-award",
     type: "News",
@@ -47,12 +53,6 @@ export const LATEST_UPDATES = [
     url: "/publications",
     type: "Publication",
     summary: "Recent paper in Machine Learning: Earth on diffusion-model downscaling for African precipitation."
-  },
-  {
-    title: "Imputation of urban environmental sensor data using gated attention bidirectional long short-term memory (GABiLSTM)",
-    url: "/publications",
-    type: "Publication",
-    summary: "New methodology for gap-filling published in Environmental Monitoring and Assessment (2026)."
   }
 ]
 
