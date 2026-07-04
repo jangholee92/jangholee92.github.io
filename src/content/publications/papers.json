@@ -58,7 +58,9 @@
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M.",
     "journal": "Journal of Environmental Management",
     "year": 2026,
-    "type": "Under Review",
+    "sortPriority": 2,
+    "type": "Published",
+    "status": "In Press",
     "tags": ["Transportation", "Urban Climate", "Climate Impact", "Data Quality", "Socio-Equity"]
   },
   {
