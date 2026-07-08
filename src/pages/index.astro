@@ -47,7 +47,7 @@ import { SITE, SOCIALS, LATEST_UPDATES } from "@consts"
             </div>
           </div>
           <ul class="space-y-4">
-            {LATEST_UPDATES.map((update) => (
+            {LATEST_UPDATES.slice(0, 5).map((update) => (
               <li>
                 <a href={update.url} class="group p-4 gap-3 flex items-center border rounded-lg hover:bg-black/5 hover:dark:bg-white/10 border-black/15 dark:border-white/20 transition-colors duration-300 ease-in-out">
                   <div class="w-full group-hover:text-black group-hover:dark:text-white blend">

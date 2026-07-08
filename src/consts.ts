@@ -34,8 +34,14 @@ export const SEARCH: Page = {
   DESCRIPTION: "Search publications and research.",
 }
 
-// Manual Latest Updates (Top 3)
+// Manual Latest Updates
 export const LATEST_UPDATES = [
+  {
+    title: "Spatiotemporal Response of Urban Bike-Sharing Ridership to Weather, Air Quality, and Future Climate Change in Major U.S. Cities",
+    url: "/files/2026_LeeBerkelhammer_JEMA.pdf",
+    type: "Publication",
+    summary: "PDF now available for the Journal of Environmental Management article on urban bike-sharing, environmental conditions, and future climate change."
+  },
   {
     title: "Climate Investment Challenge Winner",
     url: "/news/climate-investment-challenge",
@@ -53,6 +59,12 @@ export const LATEST_UPDATES = [
     url: "/publications",
     type: "Publication",
     summary: "Recent paper in Machine Learning: Earth on diffusion-model downscaling for African precipitation."
+  },
+  {
+    title: "AGU GEC Early Career Spotlight",
+    url: "/news/agu-spotlight",
+    type: "News",
+    summary: "Honored to be featured in the AGU Global Environmental Change Early Career Spotlight."
   }
 ]
 
