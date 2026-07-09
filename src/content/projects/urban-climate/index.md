@@ -12,13 +12,13 @@ A key emphasis is co-developing digital twins that blend observations with high-
 ### Representative Publications
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, Berkelhammer, M., et al. (2025). Gap-Filling of Urban Soil Sensor Measurements Using Gated Attention Bidirectional LSTM (GA-BiLSTM): Methods, Findings, and Implications. <em>Environmental Monitoring and Assessment</em>. <a href="/files/2026_LeeEtAl_EMA.pdf">PDF</a>
+  <strong>Lee, J.</strong>, Berkelhammer, M., et al. (2025). Gap-Filling of Urban Soil Sensor Measurements Using Gated Attention Bidirectional LSTM (GA-BiLSTM): Methods, Findings, and Implications. <em>Environmental Monitoring and Assessment</em>. <a href="/files/2026_LeeEtAl_EMA.pdf" download="2026_LeeEtAl_EMA.pdf">PDF</a>
 </div>
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, & Berkelhammer, M. (2025). Evaluating the Influence of Traffic Congestion on Surface Urban Heat Island Intensity. <em>Geophysical Research Letters</em>. <a href="/files/2025_LeeBerkelhammer_GRL.pdf">PDF</a>
+  <strong>Lee, J.</strong>, & Berkelhammer, M. (2025). Evaluating the Influence of Traffic Congestion on Surface Urban Heat Island Intensity. <em>Geophysical Research Letters</em>. <a href="/files/2025_LeeBerkelhammer_GRL.pdf" download="2025_LeeBerkelhammer_GRL.pdf">PDF</a>
 </div>
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, & Berkelhammer, M. (2024). Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Heat in Major Midlatitude City. <em>Geophysical Research Letters</em>. <a href="/files/2024_LeeBerkelhammer_GRL.pdf">PDF</a>
+  <strong>Lee, J.</strong>, & Berkelhammer, M. (2024). Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Heat in Major Midlatitude City. <em>Geophysical Research Letters</em>. <a href="/files/2024_LeeBerkelhammer_GRL.pdf" download="2024_LeeBerkelhammer_GRL.pdf">PDF</a>
 </div>

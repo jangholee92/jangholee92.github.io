@@ -21,6 +21,7 @@ type Props = {
 
 export default function PublicationList(props: Props) {
   const [selectedTag, setSelectedTag] = createSignal<string>("All Topics")
+  const pdfFileName = (url: string) => url.split("/").pop() || undefined
 
   const allTags = createMemo(() => {
     const tags = new Set<string>()
@@ -165,7 +166,7 @@ export default function PublicationList(props: Props) {
                                 </span>
                               )}
                               {pub.pdfUrl && (
-                                <a href={pub.pdfUrl} target="_blank" class="text-[10px] bg-blue-500/10 text-blue-600 dark:text-blue-400 px-2 py-0.5 rounded hover:bg-blue-500/20 transition-colors flex items-center gap-1 font-bold">
+                                <a href={pub.pdfUrl} download={pdfFileName(pub.pdfUrl)} aria-label={`Download PDF: ${pub.title}`} class="text-[10px] bg-blue-500/10 text-blue-600 dark:text-blue-400 px-2 py-0.5 rounded hover:bg-blue-500/20 transition-colors flex items-center gap-1 font-bold">
                                   PDF
                                 </a>
                               )}
