@@ -10,16 +10,11 @@ const allPublicationsEntries = await getCollection("publications")
 const publications = allPublicationsEntries.flatMap(entry => entry.data)
 type Publication = typeof publications[number]
 
-const getAcceptedTime = (date?: string) => date ? Date.parse(date) : 0
-const sortByRecentAccepted = (a: Publication, b: Publication) => {
-  return b.year - a.year
-    || (b.sortPriority ?? 0) - (a.sortPriority ?? 0)
-    || getAcceptedTime(b.acceptedDate) - getAcceptedTime(a.acceptedDate)
-    || a.title.localeCompare(b.title)
-}
+// papers.json follows the CV within each year; stable sorting preserves that order.
+const sortByCvOrder = (a: Publication, b: Publication) => b.year - a.year
 
-const published = publications.filter(p => p.type === "Published").sort(sortByRecentAccepted)
-const underReview = publications.filter(p => p.type === "Under Review").sort((a, b) => b.year - a.year)
+const published = publications.filter(p => p.type === "Published").sort(sortByCvOrder)
+const underReview = publications.filter(p => p.type === "Under Review").sort(sortByCvOrder)
 
 const title = "Publications"
 const description = "Peer-reviewed journal articles and research manuscripts."
