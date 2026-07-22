@@ -8,7 +8,7 @@
     "tags": ["GeoAI", "Climate Change", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
   },
   {
-    "title": "Beyond Data and Resolution: A Roadmap for Better Models of Urban Land-Atmosphere Interactions",
+    "title": "A Roadmap for Improved Urban Representation in Process-Based Land Surface Models",
     "authors": "Chakraborty, T. C.*, Sulman, B. N., Ricciuto, D., Horne, J., Prince, N. E., Jiang, T., Berkelhammer, M., Ahlswede, B., Votzke, S., Gingerich, M., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Cho, A., Bolivar, F., Kato, A., Gurney, K.",
     "journal": "AGU Advances",
     "year": 2026,
@@ -26,7 +26,7 @@
   {
     "title": "Diffusion-Based Multi-Sensor Satellite Fusion for Land Surface Temperature Downscaling Across African Cities",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Shamekh, S.",
-    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "journal": "International Journal of Remote Sensing",
     "year": 2026,
     "type": "Under Review",
     "tags": ["GeoAI", "Remote Sensing", "Urban Climate", "Physical Modeling", "Climate Impact"]
