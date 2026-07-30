@@ -1,8 +1,8 @@
 [
   {
-    "title": "Stationary Sensitivity Depends on Model Architecture in Statistical Temperature Downscaling",
+    "title": "Model Architecture Shapes Temporal Transferability in Statistical Downscaling of Near-Surface Air Temperature",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Shamekh, S.",
-    "journal": "Geophysical Research Letters",
+    "journal": "Machine Learning: Earth",
     "year": 2026,
     "type": "Under Review",
     "tags": ["GeoAI", "Climate Change", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
