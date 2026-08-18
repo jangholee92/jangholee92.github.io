@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cross-region Weather Dependence in System-scale Peak-demand Assessment: Evidence from South Korea",
+    "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Kim, J.",
+    "journal": "International Journal of Green Energy",
+    "year": 2026,
+    "type": "Under Review",
+    "tags": ["Energy", "Climate Change", "Extreme Events", "Risk Assessment", "Atmospheric Science"]
+  },
+  {
+    "title": "Land Surface Temperature and Modeled Air Temperature Yield Different Daily Heat-health Predictions in Four U.S. Urban Jurisdictions",
+    "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Choi, J., Chakraborty, T. C.",
+    "journal": "Environmental Research: Health",
+    "year": 2026,
+    "type": "Under Review",
+    "tags": ["Public Health", "Remote Sensing", "Urban Climate", "Climate Impact", "Risk Assessment"]
+  },
+  {
     "title": "Model Architecture Shapes Temporal Transferability in Statistical Downscaling of Near-Surface Air Temperature",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Shamekh, S.",
     "journal": "Machine Learning: Earth",
