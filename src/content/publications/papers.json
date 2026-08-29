@@ -1,8 +1,24 @@
 [
   {
-    "title": "Cross-region Weather Dependence in System-scale Peak-demand Assessment: Evidence from South Korea",
+    "title": "Wholesale price responses to gigawatt-scale data center loads across U.S. electricity markets",
+    "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
+    "journal": "Applied Energy",
+    "year": 2026,
+    "type": "Under Review",
+    "tags": ["Energy", "Climate Impact", "Risk Assessment", "Data Quality", "Physical Modeling"]
+  },
+  {
+    "title": "Multiple deterministic reconstructions can improve multivariate probabilistic downscaling",
+    "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Shamekh, S.",
+    "journal": "Journal of Advances in Modeling Earth Systems",
+    "year": 2026,
+    "type": "Under Review",
+    "tags": ["GeoAI", "Climate Change", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
+  },
+  {
+    "title": "Cross-region weather dependence in peak-demand assessment for energy-system planning: Evidence from South Korea",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span> & Kim, J.",
-    "journal": "International Journal of Green Energy",
+    "journal": "Energy Sources, Part B: Economics, Planning, and Policy",
     "year": 2026,
     "type": "Under Review",
     "tags": ["Energy", "Climate Change", "Extreme Events", "Risk Assessment", "Atmospheric Science"]
