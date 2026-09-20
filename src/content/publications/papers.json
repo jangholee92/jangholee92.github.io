@@ -18,7 +18,7 @@
   {
     "title": "Multiple Deterministic Reconstructions Can Improve Multivariate Probabilistic Downscaling",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Shamekh, S.",
-    "journal": "Journal of Geophysical Research: Machine Learning and Computation",
+    "journal": "Earth and Space Sciences",
     "year": 2026,
     "type": "Under Review",
     "tags": ["GeoAI", "Climate Change", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
@@ -40,7 +40,7 @@
     "tags": ["Public Health", "Remote Sensing", "Urban Climate", "Climate Impact", "Risk Assessment"]
   },
   {
-    "title": "Model Architecture Shapes Temporal Transferability In Statistical Downscaling Of Near-Surface Air Temperature",
+    "title": "Model Architecture and Calibration Period Sensitivity in Controlled Super-Resolution of Near-Surface Air Temperature",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Shamekh, S.",
     "journal": "Machine Learning: Earth",
     "year": 2026,
