@@ -37,6 +37,18 @@ export const SEARCH: Page = {
 // Manual Latest Updates
 export const LATEST_UPDATES = [
   {
+    title: "Model Architecture and Calibration Period Sensitivity in Controlled Super-Resolution Reconstruction of Near-Surface Air Temperature",
+    url: "/publications",
+    type: "Publication",
+    summary: "In press in Machine Learning: Earth, examining model-architecture and calibration-period sensitivity in near-surface air-temperature super-resolution."
+  },
+  {
+    title: "CROCUS Micronet: A Distributed, AI-Enabled Urban Observation System In Chicago",
+    url: "/publications",
+    type: "Publication",
+    summary: "In press in the Bulletin of the American Meteorological Society, presenting an AI-enabled distributed urban observation system in Chicago."
+  },
+  {
     title: "Spatiotemporal Response of Urban Bike-Sharing Ridership to Weather, Air Quality, and Future Climate Change in Major U.S. Cities",
     url: "/files/2026_LeeBerkelhammer_JEMA.pdf",
     type: "Publication",
