@@ -1,6 +1,6 @@
 [
   {
-    "title": "Heterogeneity In Environmental Conditions Alters Maple Sap Flow Across A Metropolitan Region",
+    "title": "Heterogeneity in environmental conditions alters maple sap flow across a metropolitan region",
     "authors": "Vincent, A. E. S.*, Cho, A., Dietzen, S., Kaludi, B., Romero, W., Larson, U., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Berkelhammer, M., Gonzalez-Meler, M., Miller, W. M., Gala, T., Anderson, G., Yocca, D., & Packman, A. I.",
     "journal": "Scientific Reports",
     "year": 2026,
@@ -8,7 +8,7 @@
     "tags": ["Hydro-Climate", "Urban Climate", "Ecology", "Sensor Networks", "Climate Impact"]
   },
   {
-    "title": "Wholesale Price Responses To Gigawatt-Scale Data Center Loads Across U.S. Electricity Markets",
+    "title": "Wholesale price responses to gigawatt-scale data center loads across U.S. electricity markets",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "Energy Policy",
     "year": 2026,
@@ -16,7 +16,7 @@
     "tags": ["Energy", "Climate Impact", "Risk Assessment", "Data Quality", "Physical Modeling"]
   },
   {
-    "title": "Multiple Deterministic Reconstructions Can Improve Multivariate Probabilistic Downscaling",
+    "title": "Multiple deterministic reconstructions can improve multivariate probabilistic downscaling",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Shamekh, S.",
     "journal": "Earth and Space Science",
     "year": 2026,
@@ -24,7 +24,7 @@
     "tags": ["GeoAI", "Climate Change", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
   },
   {
-    "title": "Cross-Region Weather Dependence In Peak-Demand Assessment For Energy-System Planning: Evidence From South Korea",
+    "title": "Cross-region weather dependence in peak-demand assessment for energy-system planning: Evidence from South Korea",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Kim, J.",
     "journal": "Energy Sources, Part B: Economics, Planning, and Policy",
     "year": 2026,
@@ -32,7 +32,7 @@
     "tags": ["Energy", "Climate Change", "Extreme Events", "Risk Assessment", "Atmospheric Science"]
   },
   {
-    "title": "Land Surface Temperature And Modeled Air Temperature Yield Different Daily Heat-Health Predictions In Four U.S. Urban Jurisdictions",
+    "title": "Land surface temperature and modeled air temperature yield different daily heat-health predictions in four U.S. urban jurisdictions",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Choi, J., & Chakraborty, T. C.",
     "journal": "Urban Climate",
     "year": 2026,
@@ -40,7 +40,7 @@
     "tags": ["Public Health", "Remote Sensing", "Urban Climate", "Climate Impact", "Risk Assessment"]
   },
   {
-    "title": "Model Architecture and Calibration Period Sensitivity in Controlled Super-Resolution Reconstruction of Near-Surface Air Temperature",
+    "title": "Model architecture and calibration period sensitivity in controlled super-resolution reconstruction of near-surface air temperature",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Shamekh, S.",
     "journal": "Machine Learning: Earth",
     "year": 2026,
@@ -49,7 +49,7 @@
     "tags": ["GeoAI", "Climate Change", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
   },
   {
-    "title": "A Roadmap For Improved Urban Representation In Process-Based Land Surface Models",
+    "title": "A roadmap for improved urban representation in process-based land surface models",
     "authors": "Chakraborty, T. C.*, Sulman, B. N., Ricciuto, D., Horne, J., Prince, N. E., Jiang, T., Berkelhammer, M., Ahlswede, B., Votzke, S., Gingerich, M., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Cho, A., Bolivar, F., Kato, A., & Gurney, K.",
     "journal": "Earth's Future",
     "year": 2026,
@@ -57,7 +57,7 @@
     "tags": ["Urban Climate", "Physical Modeling", "Atmospheric Science", "Climate Change", "Data Quality"]
   },
   {
-    "title": "Persistently Arid Soils Amplify The Urban Heat Island Of A Mid-Latitude Megacity",
+    "title": "Persistently arid soils amplify the urban heat island of a mid-latitude megacity",
     "authors": "Berkelhammer, M.*, <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Vincent, A., Sullivan, R., Cho, A., Packman, A., Matamala, R., Gonzalez-Meler, M., Kaludi, B., Miller, W., Briner, O., Gala, T., Anderson, G., Pal, S., Muradyan, P., Raut, B., Collis, S., Drewniak, B., Romero, W., Larson, U., Sagi, C., Gingerich, M., McNicol, G., Cintron, R., Park, S. Y., Nesbitt, S., Yocca, D., Fears, N. S., & Negri, M. C.",
     "journal": "AGU Advances",
     "year": 2026,
@@ -74,7 +74,7 @@
     "tags": ["GeoAI", "Remote Sensing", "Urban Climate", "Physical Modeling", "Climate Impact"]
   },
   {
-    "title": "Crowdsourced Data As A New Framework For Urban Hazard Detection And Analysis: A Review Of Data Sources, Methods, And Applications In Extreme Heat And Flood Monitoring",
+    "title": "Crowdsourced data as a new framework for urban hazard detection and analysis: A review of data sources, methods, and applications in extreme heat and flood monitoring",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Park, S. Y., Wadhwa, A., Chakraborty, T. C., Packman, A. I., Nesbitt, S. W., Sharma, A., Vincent, A. E. S., Collis, S., Muradyan, P., Negri, C., Pal, S., Cho, A., Berkelhammer, M., Miller, W., Kotamarthi, R., & Hence, D.",
     "journal": "Urban Climate",
     "year": 2026,
@@ -82,7 +82,7 @@
     "tags": ["Urban Climate", "Public Health", "Sensor Networks", "Risk Assessment", "Climate Impact"]
   },
   {
-    "title": "CROCUS Micronet: A Distributed, AI-Enabled Urban Observation System In Chicago",
+    "title": "CROCUS Micronet: A distributed, AI-enabled urban observation system in Chicago",
     "authors": "Muradyan, P.*, Collis, S., O’Brien, J. R., Tuftedal, M., Jackson, R., Raut, B. A., Grover, M., Kaludi, B., Vincent, A. E. S., Wagner, T. J., Sankaran, R., Cho, A., Weart, B., Pal, S., Sullivan, R. C., Anderson, G., Berkelhammer, M., Conrad, N., DuMerer, D., Fytanidis, D. K., Gala, T., Gonzalez-Meler, M. A., Hence, D., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Lozano, F., Michnick, J., Miller, W. M., Nesbitt, S., Packman, A. I., Park, S. Y., Saari, C., Shahkarami, S., Wang, J., Wawrzyniak, E., Yocca, D., Zvolanek, E., Beaudry, S., Kotamarthi, R., & Negri, C.",
     "journal": "Bulletin of the American Meteorological Society",
     "year": 2026,
@@ -91,7 +91,7 @@
     "tags": ["Urban Climate", "Digital Twins", "Sensor Networks", "GeoAI", "Remote Sensing"]
   },
   {
-    "title": "Spatiotemporal Response Of Urban Bike-Sharing Ridership To Weather, Air Quality, And Future Climate Change In Major U.S. Cities",
+    "title": "Spatiotemporal response of urban bike-sharing ridership to weather, air quality, and future climate change in major U.S. cities",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Berkelhammer, M.",
     "journal": "Journal of Environmental Management",
     "year": 2026,
@@ -101,7 +101,7 @@
     "tags": ["Transportation", "Urban Climate", "Climate Impact", "Data Quality", "Socio-Equity"]
   },
   {
-    "title": "How Far Can We Downscale? Resolution Limits And Physical Interpretability Of Diffusion Models For African Precipitation",
+    "title": "How far can we downscale? Resolution limits and physical interpretability of diffusion models for African precipitation",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Shamekh, S.",
     "journal": "Machine Learning: Earth",
     "year": 2026,
@@ -111,7 +111,7 @@
     "tags": ["GeoAI", "Hydro-Climate", "Physical Modeling", "Atmospheric Science", "Climate Impact"]
   },
   {
-    "title": "Imputation Of Urban Environmental Sensor Data Using Gated Attention Bidirectional Long Short-Term Memory (GABiLSTM): Methods, Performance, And Implications",
+    "title": "Imputation of urban environmental sensor data using gated attention bidirectional long short-term memory (GABiLSTM): Methods, performance, and implications",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., O'Brien, J., McNicol, G., Vincent, A. E. S., Grover, M., Kaludi, B., Gonzalez-Meler, M., Cho, A., & Packman, A. I.",
     "journal": "Environmental Monitoring and Assessment",
     "year": 2026,
@@ -121,7 +121,7 @@
     "tags": ["GeoAI", "Sensor Networks", "Urban Climate", "Hydro-Climate", "Data Quality"]
   },
   {
-    "title": "Quality Assessment And Control Of Urban Environmental Sensors Using Physical Thresholding And Machine Learning-Based Probabilities",
+    "title": "Quality assessment and control of urban environmental sensors using physical thresholding and machine learning-based probabilities",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., Vincent, A. E. S., Grover, M., Cho, A., Packman, A. I., Kaludi, B., Gonzalez-Meler, M., & McNicol, G.",
     "journal": "Big Earth Data",
     "year": 2026,
@@ -131,7 +131,7 @@
     "tags": ["GeoAI", "Sensor Networks", "Urban Climate", "Physical Modeling", "Data Quality"]
   },
   {
-    "title": "Online Signals Of Vulnerability: Revealing City-Level Response To Extreme Heat Using Google Trends",
+    "title": "Online signals of vulnerability: Revealing city-level response to extreme heat using Google Trends",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "Environmental Research Letters",
     "year": 2025,
@@ -141,7 +141,7 @@
     "tags": ["Climate Impact", "Public Health", "Urban Climate", "Social Data", "Risk Assessment"]
   },
   {
-    "title": "Comparing Multi-Source Urban Flood Indicators: Satellite, Simulation, And Citizen-Reported Data",
+    "title": "Comparing multi-source urban flood indicators: Satellite, simulation, and citizen-reported data",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Park, S. Y., Wadhwa, A., Packman, A., Nesbitt, S., Sharma, A., Berkelhammer, M., Garcia, M. H., Kotamarthi, R., Hence, D., & Miller, W.",
     "journal": "Environmental Research: Water",
     "year": 2025,
@@ -151,7 +151,7 @@
     "tags": ["Hydro-Climate", "Remote Sensing", "Urban Climate", "Physical Modeling", "Atmospheric Science"]
   },
   {
-    "title": "Artificial Intelligence-Enabled Digital Twin For U.S. Cities",
+    "title": "Artificial intelligence-enabled digital twin for U.S. cities",
     "authors": "Kotamarthi, R.*, Wang, J., Stock, J., Fytanidis, D. K., Munson, T., Niyogi, D., Muradyan, P., Jackson, R., Collis, S., Gonzalez-Meler, M. A., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Sharma, A., Wang, S., Kaludi, B., Kaplan, M., Nesbitt, S. W., Martilli, A., Jacob, R., & Negri, C.",
     "journal": "Bulletin of the American Meteorological Society",
     "year": 2025,
@@ -161,7 +161,7 @@
     "tags": ["GeoAI", "Urban Climate", "Physical Modeling", "Digital Twins", "Atmospheric Science"]
   },
   {
-    "title": "Evaluating The Influence Of Traffic Congestion On Surface Urban Heat Island Intensity",
+    "title": "Evaluating the influence of traffic congestion on surface urban heat island intensity",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Berkelhammer, M.",
     "journal": "Geophysical Research Letters",
     "year": 2025,
@@ -171,7 +171,7 @@
     "tags": ["Urban Climate", "Remote Sensing", "Transportation", "Atmospheric Science", "Physical Modeling"]
   },
   {
-    "title": "Analysis Of Urban Flooding In Chicago Based On Crowdsourced Data: Drivers And The Need For Community-Based Mitigation Strategies",
+    "title": "Analysis of urban flooding in Chicago based on crowdsourced data: Drivers and the need for community-based mitigation strategies",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., Park, S. Y., & Wilson, M.",
     "journal": "Environmental Research: Infrastructure and Sustainability",
     "year": 2025,
@@ -181,7 +181,7 @@
     "tags": ["Hydro-Climate", "Urban Climate", "Climate Impact", "Public Health", "Environmental Justice"]
   },
   {
-    "title": "Plant Species Selection And Participatory Community Co-Design Are Essential In Balancing Ecosystem Services And Disservices In Urban Areas",
+    "title": "Plant species selection and participatory community co-design are essential in balancing ecosystem services and disservices in urban areas",
     "authors": "Cho, A.*, Love, N., Cintron, R., Nicholson, J., Xu, L., Nunez-Mir, G., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Berkelhammer, M., & Gonzalez-Meler, M.",
     "journal": "Environmental Research Letters",
     "year": 2025,
@@ -191,7 +191,7 @@
     "tags": ["Urban Climate", "Ecology", "Microclimate", "Sustainability", "Physical Modeling"]
   },
   {
-    "title": "WGAN-GP-Based Conditional GAN (cGAN) With Extreme Critic For Precipitation Downscaling In A Key Agricultural Region Of The Northeast U.S.",
+    "title": "WGAN-GP-based conditional GAN (cGAN) with extreme critic for precipitation downscaling in a key agricultural region of the Northeast U.S.",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Park, S. Y.",
     "journal": "IEEE Access–Geoscience and Remote Sensing Society Section",
     "year": 2025,
@@ -201,7 +201,7 @@
     "tags": ["GeoAI", "Hydro-Climate", "Remote Sensing", "Atmospheric Science", "Extreme Events"]
   },
   {
-    "title": "Inferring Urban Air Temperatures From Land Surface Temperatures With The E3SM Land Model (uELM), Satellite Observations, And Measurement Campaign",
+    "title": "Inferring urban air temperatures from land surface temperatures with the E3SM land model (uELM), satellite observations, and measurement campaign",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "IEEE Access–Geoscience and Remote Sensing Society Section",
     "year": 2025,
@@ -211,7 +211,7 @@
     "tags": ["Urban Climate", "GeoAI", "Remote Sensing", "Physical Modeling", "Atmospheric Science"]
   },
   {
-    "title": "Estimating Near-Surface Air Temperature From Satellite-Derived Land Surface Temperature Using Temporal Deep Learning: A Comparative Analysis",
+    "title": "Estimating near-surface air temperature from satellite-derived land surface temperature using temporal deep learning: A comparative analysis",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "IEEE Access–Geoscience and Remote Sensing Society Section",
     "year": 2025,
@@ -221,7 +221,7 @@
     "tags": ["GeoAI", "Urban Climate", "Remote Sensing", "Atmospheric Science", "Physical Modeling"]
   },
   {
-    "title": "Observational Constraints On The Spatial Effect Of Greenness And Canopy Cover On Urban Heat In Major Midlatitude City",
+    "title": "Observational constraints on the spatial effect of greenness and canopy cover on urban heat in major midlatitude city",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Berkelhammer, M.",
     "journal": "Geophysical Research Letters",
     "year": 2024,
@@ -231,7 +231,7 @@
     "tags": ["Urban Climate", "Remote Sensing", "Ecology", "Atmospheric Science", "Physical Modeling"]
   },
   {
-    "title": "Leaf Functional Traits Highlight Phenotypic Variation Of Two Tree Species In The Urban Environment",
+    "title": "Leaf functional traits highlight phenotypic variation of two tree species in the urban environment",
     "authors": "Cho, A.*, Dziedzic, N., Davis, A., Hanson, C., <span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Nunez-Mir, G., & Gonzalez-Meler, M. A.",
     "journal": "Frontiers in Plant Science Functional Plant Ecology",
     "year": 2024,
@@ -241,7 +241,7 @@
     "tags": ["Urban Climate", "Ecology", "Plant Physiology", "Sustainability", "Microclimate"]
   },
   {
-    "title": "Assessment Of U.S. Urban Surface Temperature Using GOES-16 And 17 Data: Urban Heat Island And Temperature Inequality",
+    "title": "Assessment of U.S. urban surface temperature using GOES-16 and 17 data: Urban heat island and temperature inequality",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "Weather, Climate, and Society",
     "year": 2024,
@@ -251,7 +251,7 @@
     "tags": ["Urban Climate", "Remote Sensing", "Climate Impact", "Socio-Equity", "Atmospheric Science"]
   },
   {
-    "title": "Urban Land Surface Temperature Downscaling In Chicago: Addressing Ethnic Inequality And Gentrification",
+    "title": "Urban land surface temperature downscaling in Chicago: Addressing ethnic inequality and gentrification",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, Berkelhammer, M., Wilson, M. D., Love, N., & Cintron, R.",
     "journal": "Remote Sensing",
     "year": 2024,
@@ -261,7 +261,7 @@
     "tags": ["GeoAI", "Urban Climate", "Remote Sensing", "Socio-Equity", "Physical Modeling"]
   },
   {
-    "title": "Effect Of Environmental And Socioeconomic Factors On Increased Early Childhood Blood Lead Levels: A Case Study In Chicago",
+    "title": "Effect of environmental and socioeconomic factors on increased early childhood blood lead levels: A case study in Chicago",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Hu, M.",
     "journal": "International Journal of Environmental Research and Public Health",
     "year": 2024,
@@ -271,7 +271,7 @@
     "tags": ["Climate Impact", "Public Health", "Environmental Justice", "Risk Assessment", "Socio-Equity"]
   },
   {
-    "title": "Improved Surface Urban Heat Impact Assessment Using GOES Satellite Data: A Comparative Study With ERA‐5",
+    "title": "Improved surface urban heat impact assessment using GOES satellite data: A comparative study with ERA‐5",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "Geophysical Research Letters",
     "year": 2024,
@@ -281,7 +281,7 @@
     "tags": ["Urban Climate", "Remote Sensing", "Atmospheric Science", "Physical Modeling", "Data Quality"]
   },
   {
-    "title": "Future Temperature‐Related Deaths In The US: The Impact Of Climate Change, Demographics, And Adaptation",
+    "title": "Future temperature‐related deaths in the US: The impact of climate change, demographics, and adaptation",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "GeoHealth",
     "year": 2023,
@@ -291,7 +291,7 @@
     "tags": ["Climate Impact", "Public Health", "Atmospheric Science", "Physical Modeling", "Climate Change"]
   },
   {
-    "title": "The Impact Of Neglecting Climate Change And Variability On ERCOT’s Forecasts Of Electricity Demand In Texas",
+    "title": "The impact of neglecting climate change and variability on ERCOT’s forecasts of electricity demand in Texas",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Dessler, A. E.",
     "journal": "Weather, Climate, and Society",
     "year": 2022,
@@ -301,7 +301,7 @@
     "tags": ["Climate Impact", "Atmospheric Science", "Energy", "Climate Change", "Risk Assessment"]
   },
   {
-    "title": "The Effect Of Forced Change And Unforced Variability In Heat Waves, Temperature Extremes, And Associated Population Risk In A CO2-Warmed World",
+    "title": "The effect of forced change and unforced variability in heat waves, temperature extremes, and associated population risk in a CO2-warmed world",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Mast, J. C., & Dessler, A. E.*",
     "journal": "Atmospheric Chemistry and Physics",
     "year": 2021,
@@ -311,7 +311,7 @@
     "tags": ["Climate Impact", "Atmospheric Science", "Public Health", "Climate Change", "Extreme Events"]
   },
   {
-    "title": "Machine Learning Based Algorithms For Global Dust Aerosol Detection From Satellite Images: Inter-Comparisons And Evaluation",
+    "title": "Machine learning based algorithms for global dust aerosol detection from satellite images: Inter-comparisons and evaluation",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, Shi, Y. R., Cai, C., Ciren, P., Wang, J., Gangopadhyay, A., & Zhang, Z.*",
     "journal": "Remote Sensing",
     "year": 2021,
@@ -321,7 +321,7 @@
     "tags": ["GeoAI", "Remote Sensing", "Atmospheric Science", "Aerosols", "Meteorology"]
   },
   {
-    "title": "Analysis Of Source Regions And Meteorological Factors For The Variability Of Spring PM10 Concentrations In Seoul, Korea",
+    "title": "Analysis of source regions and meteorological factors for the variability of spring PM10 concentrations in Seoul, Korea",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.</span>, & Kim, K. Y.*",
     "journal": "Atmospheric Environment",
     "year": 2018,
@@ -331,7 +331,7 @@
     "tags": ["Atmospheric Science", "Urban Climate", "Public Health", "Meteorology", "Air Quality"]
   },
   {
-    "title": "Future Trend In Seasonal Lengths And Extreme Temperature Distributions Over South Korea",
+    "title": "Future trend in seasonal lengths and extreme temperature distributions over South Korea",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>",
     "journal": "Asia-Pacific Journal of Atmospheric Sciences",
     "year": 2017,
