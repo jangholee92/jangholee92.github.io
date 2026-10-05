@@ -65,11 +65,12 @@
     "tags": ["Urban Climate", "Hydro-Climate", "Physical Modeling", "Ecology", "Climate Impact"]
   },
   {
-    "title": "Evaluation Of Conditional Diffusion For Cross-Sensor Land Surface Temperature Downscaling Across African Cities",
+    "title": "Evaluation of conditional diffusion for cross-sensor land surface temperature downscaling across African cities",
     "authors": "<span style=\"font-weight: bold; color: #FFD700;\">Lee, J.*</span>, & Shamekh, S.",
     "journal": "International Journal of Remote Sensing",
     "year": 2026,
-    "type": "Under Review",
+    "type": "Published",
+    "status": "In Press",
     "tags": ["GeoAI", "Remote Sensing", "Urban Climate", "Physical Modeling", "Climate Impact"]
   },
   {
