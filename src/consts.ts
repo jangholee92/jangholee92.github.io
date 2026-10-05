@@ -3,7 +3,7 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Jangho Lee",
-  DESCRIPTION: "Postdoctoral Researcher at NYU, specializing in GeoAI and Urban Climate.",
+  DESCRIPTION: "Atmospheric scientist at NYU studying AI-driven data downscaling, urban climate, and climate impacts.",
   AUTHOR: "Jangho Lee",
 }
 
@@ -25,7 +25,7 @@ export const BLOG: Page = {
 // Research Page
 export const PROJECTS: Page = {
   TITLE: "Research",
-  DESCRIPTION: "Primary research pillars.",
+  DESCRIPTION: "AI-driven environmental data, urban climate and nature-based solutions, and climate impacts and responses.",
 }
 
 // Search Page
@@ -37,19 +37,19 @@ export const SEARCH: Page = {
 // Manual Latest Updates
 export const LATEST_UPDATES = [
   {
-    title: "Model Architecture and Calibration Period Sensitivity in Controlled Super-Resolution Reconstruction of Near-Surface Air Temperature",
+    title: "Model architecture and calibration period sensitivity in controlled super-resolution reconstruction of near-surface air temperature",
     url: "/publications",
     type: "Publication",
     summary: "In press in Machine Learning: Earth, examining model-architecture and calibration-period sensitivity in near-surface air-temperature super-resolution."
   },
   {
-    title: "CROCUS Micronet: A Distributed, AI-Enabled Urban Observation System In Chicago",
+    title: "CROCUS Micronet: A distributed, AI-enabled urban observation system in Chicago",
     url: "/publications",
     type: "Publication",
     summary: "In press in the Bulletin of the American Meteorological Society, presenting an AI-enabled distributed urban observation system in Chicago."
   },
   {
-    title: "Spatiotemporal Response of Urban Bike-Sharing Ridership to Weather, Air Quality, and Future Climate Change in Major U.S. Cities",
+    title: "Spatiotemporal response of urban bike-sharing ridership to weather, air quality, and future climate change in major U.S. cities",
     url: "/files/2026_LeeBerkelhammer_JEMA.pdf",
     type: "Publication",
     summary: "PDF now available for the Journal of Environmental Management article on urban bike-sharing, environmental conditions, and future climate change."
@@ -67,7 +67,7 @@ export const LATEST_UPDATES = [
     summary: "Awarded for Diffusion-Based Multi-Sensor Satellite Fusion for Land Surface Temperature Downscaling Across African Cities."
   },
   {
-    title: "How Far Can We Downscale? Resolution Limits and Physical Interpretability of Diffusion Models for African Precipitation",
+    title: "How far can we downscale? Resolution limits and physical interpretability of diffusion models for African precipitation",
     url: "/publications",
     type: "Publication",
     summary: "Recent paper in Machine Learning: Earth on diffusion-model downscaling for African precipitation."
