@@ -6,7 +6,7 @@ date: "Dec 15 2025"
 
 ![GeoHealth Award](/images/thumbnail3.png)
 
-Our paper, *"Future Temperature‐Related Deaths in the US: The Impact of Climate Change, Demographics, and Adaptation"*, published in **GeoHealth**, has been recognized as a **Top Cited Article (2023)**. 
+Our paper, *"Future temperature‐related deaths in the US: The impact of climate change, demographics, and adaptation"*, published in **GeoHealth**, has been recognized as a **Top Cited Article (2023)**.
 
 This work quantifies how future climate scenarios, combined with shifting demographics and varying levels of adaptation, will influence heat-related mortality across the United States.
 
