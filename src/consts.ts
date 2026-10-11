@@ -39,9 +39,9 @@ export const SEARCH: Page = {
 export const LATEST_UPDATES = [
   {
     title: "Model architecture and calibration period sensitivity in controlled super-resolution reconstruction of near-surface air temperature",
-    url: "/publications",
+    url: "/files/2026_LeeShamekh_MLE_AirTemp.pdf",
     type: "Publication",
-    summary: "In press in Machine Learning: Earth, examining model-architecture and calibration-period sensitivity in near-surface air-temperature super-resolution."
+    summary: "Published in Machine Learning: Earth, examining model-architecture and calibration-period sensitivity in near-surface air-temperature super-resolution."
   },
   {
     title: "CROCUS Micronet: A distributed, AI-enabled urban observation system in Chicago",
