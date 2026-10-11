@@ -9,6 +9,7 @@ export const SITE: Site = {
 
 // Last Updated Date
 export const LAST_UPDATED = "July 14, 2026"
+export const CV_LAST_UPDATED = "October 10, 2026"
 
 // CV Page
 export const WORK: Page = {

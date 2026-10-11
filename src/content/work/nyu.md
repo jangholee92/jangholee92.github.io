@@ -1,7 +1,7 @@
 ---
 company: "New York University"
 role: "Postdoctoral Researcher"
-dateStart: "01/01/2026"
+dateStart: "01/01/2025"
 dateEnd: "Present"
 ---
 
