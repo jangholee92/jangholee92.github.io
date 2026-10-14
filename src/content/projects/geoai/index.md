@@ -13,7 +13,7 @@ High-resolution estimates also depend on trustworthy inputs. Using Chicago's CRO
 ### Representative Publications
 
 <div class="pub-card">
-  <strong>Lee, J.</strong>, & Shamekh, S. (2026). Evaluation of conditional diffusion for cross-sensor land surface temperature downscaling across African cities. <em>International Journal of Remote Sensing</em>. In Press. <a href="/publications">Details</a>
+  <strong>Lee, J.</strong>, & Shamekh, S. (2026). Evaluation of conditional diffusion for cross-sensor land surface temperature downscaling across African cities. <em>International Journal of Remote Sensing</em>. <a href="/files/2026_LeeShamekh_IJRS.pdf" download="2026_LeeShamekh_IJRS.pdf">PDF</a>
 </div>
 
 <div class="pub-card">

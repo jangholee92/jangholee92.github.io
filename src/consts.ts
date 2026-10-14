@@ -38,6 +38,12 @@ export const SEARCH: Page = {
 // Manual Latest Updates
 export const LATEST_UPDATES = [
   {
+    title: "Evaluation of conditional diffusion for cross-sensor land surface temperature downscaling across African cities",
+    url: "/files/2026_LeeShamekh_IJRS.pdf",
+    type: "Publication",
+    summary: "Published in the International Journal of Remote Sensing; PDF available for the cross-sensor land surface temperature downscaling study."
+  },
+  {
     title: "Model architecture and calibration period sensitivity in controlled super-resolution reconstruction of near-surface air temperature",
     url: "/files/2026_LeeShamekh_MLE_AirTemp.pdf",
     type: "Publication",
