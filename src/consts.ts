@@ -8,7 +8,7 @@ export const SITE: Site = {
 }
 
 // Last Updated Date
-export const LAST_UPDATED = "October 28, 2026"
+export const LAST_UPDATED = "October 31, 2026"
 export const CV_LAST_UPDATED = "October 10, 2026"
 
 // CV Page
@@ -37,6 +37,12 @@ export const SEARCH: Page = {
 
 // Manual Latest Updates
 export const LATEST_UPDATES = [
+  {
+    title: "Persistently arid soils amplify the urban heat island of a mid-latitude megacity",
+    url: "/publications",
+    type: "Publication",
+    summary: "In press in AGU Advances, examining how persistently arid soils intensify urban heat."
+  },
   {
     title: "Evaluation of conditional diffusion for cross-sensor land surface temperature downscaling across African cities",
     url: "/files/2026_LeeShamekh_IJRS.pdf",
