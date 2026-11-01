@@ -10,11 +10,11 @@ const allPublicationsEntries = await getCollection("publications")
 const publications = allPublicationsEntries.flatMap(entry => entry.data)
 type Publication = typeof publications[number]
 
-// papers.json follows the CV within each year; stable sorting preserves that order.
-const sortByCvOrder = (a: Publication, b: Publication) => b.year - a.year
+// Add new papers at the top of papers.json; stable sorting preserves their order within each year.
+const sortByYear = (a: Publication, b: Publication) => b.year - a.year
 
-const published = publications.filter(p => p.type === "Published").sort(sortByCvOrder)
-const underReview = publications.filter(p => p.type === "Under Review").sort(sortByCvOrder)
+const published = publications.filter(p => p.type === "Published").sort(sortByYear)
+const underReview = publications.filter(p => p.type === "Under Review").sort(sortByYear)
 
 const title = "Publications"
 const description = "Peer-reviewed journal articles and research manuscripts."
